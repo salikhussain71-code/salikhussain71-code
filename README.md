@@ -1,56 +1,154 @@
-# Hi, I'm Salik 👋
+# Salik Hussain
 
-I'm a pre-university student from Rawalpindi, Pakistan, preparing for BS Computer Science at Air University Islamabad (Fall 2026).
+### AI • NLP • Retrieval-Augmented Generation (RAG) • Urdu Language Technology
 
-My background is F.Sc. Pre-Medical. I made a deliberate shift to computer science because I have a clear research direction — not because it was the easiest option.
+Pre-university Computer Science student from Rawalpindi, Pakistan, preparing to begin a BS in Computer Science in Fall 2026.
 
----
+I am building long-term expertise in Artificial Intelligence, Natural Language Processing, Machine Learning, and Retrieval-Augmented Generation systems, with a particular focus on low-resource languages and Urdu language technology.
 
-## What I'm working on
-
-- Building Python and mathematics foundations before university begins
-- Studying linear algebra, calculus, and probability for machine learning
-- Developing a long-term research project in Urdu NLP and RAG systems
+My goal is to contribute to AI systems that improve access to information, education, and public services for millions of people.
 
 ---
 
-## Research Direction
+## Current Focus
 
-I'm working toward a research project called **PAKGOV-RAG** — a bilingual Urdu-English retrieval-augmented generation system for Pakistani government documents (FBR, HEC, NADRA, SECP). The goal is to make formal government information accessible in both languages using modern NLP.
-
-This is a real, underserved problem. I'm building the foundations now so I can execute properly during university.
+* Python Programming
+* Data Structures & Algorithms
+* Mathematics for Machine Learning
+* Linear Algebra
+* Calculus
+* Probability & Statistics
+* Natural Language Processing
+* Transformer Models
+* Retrieval-Augmented Generation (RAG)
+* Research Skills
 
 ---
 
-## Long-term plan
+## Flagship Project
 
-- BS CS → Air University Islamabad (2026–2030)
-- MS AI → targeting MBZUAI, KAUST, or ETH Zurich (2029)
-- Research focus: low-resource Urdu NLP, RAG systems, South Asian language AI
+### PAKGOV-RAG
+
+A bilingual Urdu-English Retrieval-Augmented Generation system designed to improve access to Pakistani government information.
+
+Target knowledge sources include:
+
+* FBR
+* HEC
+* NADRA
+* SECP
+* Government regulations
+* Public-sector documentation
+
+Objectives:
+
+* Multilingual information retrieval
+* Urdu-English question answering
+* Reliable retrieval pipelines
+* Public-access AI systems
+* Low-resource language research
+
+Planned technologies:
+
+* Python
+* Hugging Face Transformers
+* FAISS
+* LangChain
+* Vector Databases
+* Multilingual Embeddings
 
 ---
 
-## Currently learning
+## Research Interests
 
-- Python (from scratch, daily practice)
-- Pre-university mathematics (algebra → calculus → linear algebra)
-- Git and version control basics
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation
+* Information Retrieval
+* Low-Resource NLP
+* Urdu NLP
+* Cross-Lingual Language Models
+* Knowledge Systems
+* AI for Public Services
+* AI for Education
+
+---
+
+## Learning Journey
+
+I come from a Pre-Medical background and intentionally transitioned toward Computer Science because of a strong interest in Artificial Intelligence and research-driven technology.
+
+My current preparation focuses on building the mathematical, programming, and research foundations necessary for advanced work in machine learning and NLP.
 
 ---
 
 ## Certifications
 
-- HP LIFE: Critical Thinking in the AI Era
-- ADB Institute Certificate
-  
+* HackerRank Python Certification
+* Kaggle Learning Certificates
+* HP LIFE Ambassador
+* HP LIFE: Critical Thinking in the AI Era
+* SoloLearn Python Certificate
+* ADB Institute AI-related Coursework Certificates
+
+---
+
+## Technical Stack
+
+### Languages
+
+* Python
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Linux
+* Jupyter Notebook
+* Kaggle
+
+### AI & Data
+
+* PyTorch (Learning)
+* Hugging Face (Learning)
+* LangChain (Learning)
+* FAISS (Learning)
+
+---
+
+## Long-Term Academic Direction
+
+BS Computer Science → AI Research → Graduate Study in Artificial Intelligence
+
+Target areas:
+
+* Natural Language Processing
+* Retrieval-Augmented Generation
+* Low-Resource Language AI
+* Knowledge Systems
+* Large Language Models
+
 ---
 
 ## Connect
 
-- LinkedIn: (https://www.linkedin.com/in/salik-hussain-7822a1388)
-- Kaggle: (https://www.kaggle.com/salikhussain)
-- Location: Rawalpindi, Pakistan
+LinkedIn:
+[www.linkedin.com/in/salik-hussain-7822a1388](http://www.linkedin.com/in/salik-hussain-7822a1388)
+
+GitHub:
+github.com/salikhussain71-code
+
+Kaggle:
+[www.kaggle.com/salikhussain](http://www.kaggle.com/salikhussain)
+
+X:
+x.com/salikhussain71
+
+Email:
+[salikhussain71@gmail.com](mailto:salikhussain71@gmail.com)
+
+Location:
+Rawalpindi, Pakistan
 
 ---
 
-*Everything here is a work in progress. I'm documenting my journey publicly because accountability matters.*
+> Building foundations today for impactful AI systems tomorrow.
