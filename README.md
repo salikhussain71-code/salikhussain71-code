@@ -1,12 +1,3 @@
-It looks like you didn't quite paste the markdown text code into the file yet, or you might be looking at a blank space where the code needs to go!
-Let's fix it right now. Here is exactly what you need to do step-by-step:
-### 🛠️ Step-by-Step Guide to Paste It
- 1. **Copy everything** in the big dark gray box below (click the "Copy" button or highlight all the text from # 🚀 Salik Hussain down to the very end).
- 2. Go to your GitHub screen that you showed me, click inside that main text box area.
- 3. **Paste (Ctrl + V or right-click and choose Paste)** the copied text right there.
- 4. Once pasted, scroll down and look for the green **"Commit changes..."** button to save it!
-### 📋 Copy This Code Block:
-```markdown
 # 🚀 Salik Hussain
 ### **AI Researcher & Systems Engineer | Specialized in Low-Resource Urdu NLP & RAG Systems**
 #### *BS Computer Science Student at Air University, Islamabad (2026–2030)*
