@@ -2,7 +2,7 @@
 
 # Salik Hussain
 
-**Incoming BS Computer Science · Air University Islamabad · Fall 2026**
+**Incoming BS Computer Science  · Fall 2026**
 **Research direction: Low-Resource Urdu NLP & Retrieval-Augmented Generation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salik-hussain-7822a1388)
