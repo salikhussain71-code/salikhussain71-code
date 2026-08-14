@@ -8,7 +8,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=760&height=45&lines=🔬+Building+Bilingual+AI+for+Low-Resource+Languages;🧠+Urdu+NLP+%7C+RAG+Systems+%7C+LLM+Architecture+Research;🎓+BS+CS+%40+Air+University+Islamabad+—+Fall+2026;🚀+Target%3A+Fully+Funded+MS+in+AI+%40+MBZUAI+%7C+ETH+%7C+KAUST;🇵🇰+Pakistan+→+Global+AI+Research+Stage" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=760&height=45&lines=🔬+Building+Bilingual+AI+for+Low-Resource+Languages;🧠+Urdu+NLP+%7C+RAG+Systems+%7C+LLM+Architecture+Research;🎓+BS+CS+%40+IQRA+University+Islamabad+—+Fall+2026;🚀+Target%3A+Fully+Funded+MS+in+AI+%40+MBZUAI+%7C+ETH+%7C+KAUST;🇵🇰+Pakistan+→+Global+AI+Research+Stage" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
