@@ -395,14 +395,6 @@
 <!--                    CONTRIBUTION HEATMAP                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🔥 Contribution Heatmap</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salikhussain71-code&bg_color=0D1117&color=00D4FF&line=7A32B7&point=FFFFFF&area=true&hide_border=true&custom_title=Salik%20Hussain%20%E2%80%94%20GitHub%20Activity" width="100%" alt="Contribution heatmap"/>
-
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
