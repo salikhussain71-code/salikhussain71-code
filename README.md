@@ -446,56 +446,10 @@
 <!--                    PROJECT ARCHITECTURE VISUAL                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🧬 AI System Architecture</h2>
-
-```text
-                         ┌───────────────────────────┐
-                         │      USER / QUERY         │
-                         └─────────────┬─────────────┘
-                                       │
-                                       ▼
-                         ┌───────────────────────────┐
-                         │     LANGUAGE DETECTION    │
-                         │       Urdu / English      │
-                         └─────────────┬─────────────┘
-                                       │
-                                       ▼
-                         ┌───────────────────────────┐
-                         │      QUERY PROCESSING     │
-                         │  Cleaning / Expansion     │
-                         └─────────────┬─────────────┘
-                                       │
-                                       ▼
-                         ┌───────────────────────────┐
-                         │       EMBEDDING MODEL     │
-                         └─────────────┬─────────────┘
-                                       │
-                                       ▼
-                         ┌───────────────────────────┐
-                         │     VECTOR RETRIEVAL      │
-                         │       FAISS / Vector DB   │
-                         └─────────────┬─────────────┘
-                                       │
-                                       ▼
-                         ┌───────────────────────────┐
-                         │       RERANKING           │
-                         └─────────────┬─────────────┘
-                                       │
-                                       ▼
-                         ┌───────────────────────────┐
-                         │       LLM GENERATION      │
-                         │     Context + Prompt      │
-                         └─────────────┬─────────────┘
-                                       │
-                                       ▼
-                         ┌───────────────────────────┐
-                         │      VERIFIED RESPONSE    │
-                         │     Urdu / English       │
-                         └───────────────────────────┘
 <br/>
 
 ## My Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://github.com/salikhussain71-code/salikhussain71-code/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
