@@ -492,3 +492,10 @@
                          │      VERIFIED RESPONSE    │
                          │     Urdu / English       │
                          └───────────────────────────┘
+<br/>
+
+## My Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://github.com/salikhussain71-code/salikhussain71-code/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
