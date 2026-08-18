@@ -66,6 +66,37 @@
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--          NEW: LIVE GITHUB ANALYTICS WIDGETS (added)             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=salikhussain71-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=salikhussain71-code&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salikhussain71-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salikhussain71-code&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salikhussain71-code&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 ## 🧬 **WHO I AM** — Research-Driven AI Engineer
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 15px; margin-left: 20px;"/>
@@ -446,6 +477,13 @@ class SalikHussain:
 ![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<!-- NEW: Skill icon strips (skillicons.dev, as requested) -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,latex,git,github,docker,linux,vscode,fastapi,postgres,neo4j,mysql" />
 
 </div>
 
@@ -869,3 +907,5 @@ Last Updated: **August 15, 2026** | Repository Updated: Weekly
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20the%20Future%20of%20AI%20🚀&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
