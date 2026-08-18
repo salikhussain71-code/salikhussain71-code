@@ -13,12 +13,8 @@
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg"/>
-</picture>
+<!-- SNAKE CONTRIBUTION ANIMATION — single, black theme only -->
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
 
@@ -63,6 +59,59 @@
 ![Certifications](https://img.shields.io/badge/🏆%20Certs-9%20Verified-FF1744?style=flat-square&logoWidth=20)
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 LIVE GITHUB ANALYTICS WIDGETS                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=salikhussain71-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salikhussain71-code&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=salikhussain71-code&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salikhussain71-code&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salikhussain71-code&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🏅 **GitHub Achievements** — Verified & Earned
+
+<div align="center">
+
+![YOLO](https://img.shields.io/badge/🟣_YOLO-Merged_a_PR_without_review-8A2BE2?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/🔵_Pull_Shark-Opened_a_Pull_Request-1E90FF?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/🟢_Pair_Extraordinaire-Co--authored_commits-28A745?style=for-the-badge)
+![Galaxy Brain](https://img.shields.io/badge/🔵_Galaxy_Brain-Discussion_answer_marked-1E90FF?style=for-the-badge)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Closed_issue%2FPR_within_5_min-FFD700?style=for-the-badge)
+
+</div>
+
+<p align="center"><sub>These 5 badges are pulled from my actual GitHub Achievements — not placeholders.</sub></p>
+
+**Still to unlock:**
+- 🧊 **Arctic Code Vault Contributor** — code preserved in the GitHub Arctic Code Vault
+- 💖 **Public Sponsor** — sponsored another developer on GitHub
+- ❤️ **Heart on Your Sleeve** — reacted with ❤️ on my own PR/Issue
+- ⭐ **Starstruck** — earned 16+ stars on a single repository
 
 ---
 
@@ -446,6 +495,13 @@ class SalikHussain:
 ![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<!-- NEW: Skill icon strips (skillicons.dev, as requested) -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,latex,git,github,docker,linux,vscode,fastapi,postgres,neo4j,mysql" />
 
 </div>
 
@@ -869,3 +925,5 @@ Last Updated: **August 15, 2026** | Repository Updated: Weekly
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20the%20Future%20of%20AI%20🚀&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
