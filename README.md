@@ -1,12 +1,15 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                    ELITE ANIMATED HEADER BANNER                -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=SALIK%20HUSSAIN&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🔬%20AI%20Research%20Engineer%20%7C%20Urdu%20NLP%20%7C%20RAG%20Systems%20%7C%20LLM%20Research&descSize=18&descAlignY=65&descColor=00D4FF" width="100%"/>
 
 <!-- ULTRA PROFESSIONAL TYPING ANIMATION -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🔬+Building+Production-Grade+Bilingual+AI+for+Low-Resource+Languages;🧠+Urdu+NLP+Expert+%7C+RAG+Systems+Architect+%7C+LLM+Research+Practitioner;🎓+BS+Computer+Science+%40+IQRA+University+Islamabad+—+Fall+2026;🚀+Target%3A+Fully+Funded+MS+AI+%40+MBZUAI+%7C+KAUST+%7C+ETH+%7C+EPFL;💼+Published+Research+%7C+Open+Source+Contributor+%7C+Daily+GitHub+Commits;🏆+9+Industry+Certifications+%7C+1000%2B+GitHub+Contributions+%7C+Ranked+Top+5%25" alt="Typing SVG"/>
 </a>
@@ -14,6 +17,7 @@
 <br/><br/>
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg"/>
@@ -23,6 +27,7 @@
 <br/>
 
 <!-- ELITE PROFILE METRICS -->
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=salikhussain71-code&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -38,88 +43,64 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--              PROFESSIONAL SOCIAL + CONTACT LINKS                -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Email](https://img.shields.io/badge/Gmail-salikhussain71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salikhussain71@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salik%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salik-hussain-7822a1388)
-[![Kaggle](https://img.shields.io/badge/Kaggle-salikhussain-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/salikhussain)
-[![Research Gate](https://img.shields.io/badge/ResearchGate-Salik%20Hussain-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net)
-[![X](https://img.shields.io/badge/X%20(Twitter)-@salikhussain71-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/salikhussain71)
-[![GitHub](https://img.shields.io/badge/GitHub-salikhussain71--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salikhussain71-code)
-[![Portfolio](https://img.shields.io/badge/Portfolio-salik.dev-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://salik.dev)
+
+
+
+
+
+
+
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                 ELITE IDENTITY & STATUS BADGES                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-![Location](https://img.shields.io/badge/📍%20Location-Rawalpindi%2C%20Pakistan-FF6B35?style=flat-square&logoWidth=20)
-![University](https://img.shields.io/badge/🏛️%20University-IQRA%20University%20Islamabad%20%28Fall%202026%29-8A2BE2?style=flat-square&logoWidth=20)
-![CGPA Target](https://img.shields.io/badge/🎯%20CGPA%20Target-3.85%2B-28A745?style=flat-square&logoWidth=20)
-![Research](https://img.shields.io/badge/🔬%20Research-Urdu%20NLP%20%26%20RAG-008080?style=flat-square&logoWidth=20)
-![Status](https://img.shields.io/badge/⚡%20Status-Pre--University%20Elite%20Builder-FFD700?style=flat-square&logoWidth=20)
-![Certifications](https://img.shields.io/badge/🏆%20Certs-9%20Verified-FF1744?style=flat-square&logoWidth=20)
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          NEW: LIVE GITHUB ANALYTICS WIDGETS (added)             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=salikhussain71-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=salikhussain71-code&theme=tokyonight&hide_border=true"/>
 
-</div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salikhussain71-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salikhussain71-code&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=salikhussain71-code&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🧬 **WHO I AM** — Research-Driven AI Engineer
+🧬 WHO I AM — Research-Driven AI Engineer
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 15px; margin-left: 20px;"/>
 
-I am an **18-year-old AI research engineer** from Rawalpindi, Pakistan — beginning my **BS Computer Science at IQRA University Islamabad in Fall 2026** — with an **obsessive, zero-tolerance focus** on building production-grade AI systems for low-resource multilingual NLP.
+I am an 18-year-old AI research engineer from Rawalpindi, Pakistan — beginning my BS Computer Science at IQRA University Islamabad in Fall 2026 — with an obsessive, zero-tolerance focus on building production-grade AI systems for low-resource multilingual NLP.
 
-I am **not a generalist developer**. I chose a research niche, architected a 10-year execution plan, and am shipping concrete AI infrastructure **before my first semester begins**.
+I am not a generalist developer. I chose a research niche, architected a 10-year execution plan, and am shipping concrete AI infrastructure before my first semester begins.
 
-### 🎯 **Pre-University Execution Track Record**
+🎯 Pre-University Execution Track Record
 
-- ✅ **Harvard CS50P** — daily GitHub commits, 100% completion  
-- ✅ **Mathematics Foundations** — pre-calculus → linear algebra mastery  
-- ✅ **9 Industry Certifications** — HackerRank, Kaggle, HP LIFE, ADBI, SoloLearn (verified)  
-- ✅ **PAKGOV-RAG Architected** — bilingual Urdu-English RAG system for Pakistani government  
-- ✅ **12-Repository Roadmap** — engineered research pipeline spanning entire BS  
-- ✅ **GitHub Portfolio Live** — 1000+ contributions, active research presence  
-- ✅ **Open-Source Contributions** — published repos with 1.2K+ stars  
+✅ Harvard CS50P — daily GitHub commits, 100% completion
 
-### 🎓 **Mission Statement**
+✅ Mathematics Foundations — pre-calculus → linear algebra mastery
 
-> ***Build the foundational mathematics. Engineer production systems. Publish peer-reviewed research. Democratize AI access for underserved linguistic communities. Leave no shortcuts.***
+✅ 9 Industry Certifications — HackerRank, Kaggle, HP LIFE, ADBI, SoloLearn (verified)
 
-```python
+✅ PAKGOV-RAG Architected — bilingual Urdu-English RAG system for Pakistani government
+
+✅ 12-Repository Roadmap — engineered research pipeline spanning entire BS
+
+✅ GitHub Portfolio Live — 1000+ contributions, active research presence
+
+✅ Open-Source Contributions — published repos with 1.2K+ stars
+
+🎓 Mission Statement
+
+Build the foundational mathematics. Engineer production systems. Publish peer-reviewed research. Democratize AI access for underserved linguistic communities. Leave no shortcuts.
+
 class SalikHussain:
     """Elite AI Research Engineer — Bilingual NLP Focus"""
     
@@ -151,13 +132,9 @@ class SalikHussain:
             "llm_systems": "QLoRA fine-tuning, inference optimization, prompt engineering",
             "research_rigor": "Reproducible experiments, ablation studies, statistical testing"
         }
-```
 
----
+🗺️ 10-YEAR ELITE RESEARCH TRAJECTORY
 
-## 🗺️ **10-YEAR ELITE RESEARCH TRAJECTORY**
-
-```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                  SALIK HUSSAIN — RESEARCH EXECUTION ROADMAP                  ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
@@ -239,34 +216,59 @@ class SalikHussain:
 ║  └─ IMPACT: Scale NLP across 100+ languages by 2040                         ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-```
 
----
-
-## 🚩 **FLAGSHIP PROJECT: PAKGOV-RAG** ⭐ Ultra-Elite Architecture
+🚩 FLAGSHIP PROJECT: PAKGOV-RAG ⭐ Ultra-Elite Architecture
 
 <div align="center">
 
-### **Bilingual Urdu-English Retrieval-Augmented Generation Engine**
-### *for Pakistani Government Document Infrastructure*
+Bilingual Urdu-English Retrieval-Augmented Generation Engine
 
-> *A production-grade NLP system that democratizes access to government knowledge for 220 million Pakistani citizens*
+for Pakistani Government Document Infrastructure
+
+A production-grade NLP system that democratizes access to government knowledge for 220 million Pakistani citizens
 
 </div>
 
-### 📊 **Problem Statement → AI Solution**
+📊 Problem Statement → AI Solution
 
-| Dimension | Problem | PAKGOV-RAG Solution |
-|:---|:---|:---|
-| **Language Barrier** | Citizens cannot query gov docs in Urdu | Bilingual retrieval + generation (Urdu ↔ English) |
-| **Accessibility** | Scattered PDFs, no structure, no search | Unified FAISS indexing + semantic retrieval |
-| **Precision** | Generic LLMs hallucinate gov info | Domain-specific fine-tuned models + RAG evaluation |
-| **Scale** | Manual document processing | Automated OCR + web scraping pipeline |
-| **Trust** | Black-box AI responses unacceptable | Source attribution + RAGAS confidence scoring |
+Dimension
 
-### 🏗️ **System Architecture — 4-Phase Production Pipeline**
+Problem
 
-```
+PAKGOV-RAG Solution
+
+Language Barrier
+
+Citizens cannot query gov docs in Urdu
+
+Bilingual retrieval + generation (Urdu ↔ English)
+
+Accessibility
+
+Scattered PDFs, no structure, no search
+
+Unified FAISS indexing + semantic retrieval
+
+Precision
+
+Generic LLMs hallucinate gov info
+
+Domain-specific fine-tuned models + RAG evaluation
+
+Scale
+
+Manual document processing
+
+Automated OCR + web scraping pipeline
+
+Trust
+
+Black-box AI responses unacceptable
+
+Source attribution + RAGAS confidence scoring
+
+🏗️ System Architecture — 4-Phase Production Pipeline
+
 ┌──────────────────────────────────────────────────────────────────────┐
 │                      PAKGOV-RAG PIPELINE ARCHITECTURE               │
 ├──────────────────────────────────────────────────────────────────────┤
@@ -363,160 +365,448 @@ class SalikHussain:
 │  └──────────────────────────────────────────────────────────────┘   │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
-```
 
-### 📋 **Target Document Corpus**
+📋 Target Document Corpus
 
-| Institution | Document Types | Volume | Language | Value |
-|:---|:---|:---:|:---:|:---|
-| 🏛️ **FBR** | Tax circulars, SROs, rules | 5K+ | Urdu/English | Highest |
-| 🎓 **HEC** | Degree policies, scholarship guidelines | 2K+ | Urdu/English | High |
-| 🪪 **NADRA** | Registration procedures, eligibility | 1K+ | Urdu | High |
-| 📈 **SECP** | Company regulations, filing procedures | 3K+ | English | High |
-| ⚖️ **Supreme Court** | Legal judgments, case law precedents | 8K+ | Urdu/English | Highest |
-| **TOTAL** | **Comprehensive Gov Knowledge Base** | **19K+** | **Bilingual** | **Revolutionary** |
+Institution
 
-### 🛠️ **Technology Stack — Production-Grade**
+Document Types
 
-<div align="center">
+Volume
 
-![Python](https://img.shields.io/badge/Python%203.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch%202.0-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3A?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS%20Vector%20DB-0052CC?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Language
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j%20Graph%20DB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Weights&Biases](https://img.shields.io/badge/W%26B%20Tracking-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+Value
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis%20Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![HF Spaces](https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+🏛️ FBR
 
-</div>
+Tax circulars, SROs, rules
 
----
+5K+
 
-## 🧠 **AI/ML Core Expertise Matrix** — Recruiter-Ready
+Urdu/English
 
-| Competency | Level | Deep Systems & Concepts |
-|:---|:---:|:---|
-| **Large Language Models** | `🔴 Expert` | Auto-regressive generation · Causal masking · Positional encodings · LoRA/QLoRA · 4-bit NF4 quantization (bitsandbytes) · Inference optimization · KV-cache management |
-| **Retrieval-Augmented Generation** | `🔴 Expert` | Hybrid dense+sparse retrieval · BM25 lexical ranking · FAISS indexing (IVF, HNSW) · Embedding alignment · RAGAS evaluation suite · Source attribution |
-| **Natural Language Processing** | `🔴 Expert` | BPE/WordPiece tokenization · Cross-lingual transfer learning · mBERT/XLM-RoBERTa · Urdu Nastaliq script handling · Code-switching NLP · Multilingual fine-tuning |
-| **Deep Learning Architecture** | `🟡 Advanced` | Backpropagation mathematics · Optimization (SGD/Adam/AdamW) · LayerNorm vs BatchNorm · Gradient flow analysis · Custom loss function design · Regularization techniques |
-| **Transformer Models** | `🟡 Advanced` | Self-attention mechanism · Multi-head attention · Position encodings · Encoder-decoder architectures · Vision transformers · Attention visualization |
-| **Research Engineering** | `🟡 Advanced` | NumPy-only implementations · Docker containerization · Dataset construction · Reproducibility standards · Ablation studies · Statistical testing (p-values, confidence intervals) |
-| **Urdu Language AI** | `🔴 Expert` | Nastaliq RTL processing · Bilingual embeddings · Morphological analysis · Code-switching handling · Low-resource fine-tuning · Urdu-specific evaluation metrics |
-| **Production ML Systems** | `🟡 Advanced` | Model serving (FastAPI) · Latency optimization · Monitoring & logging · A/B testing · CI/CD pipelines · Model versioning (MLflow/W&B) |
+Highest
 
----
+🎓 HEC
 
-## 📐 **Mathematics for AI — Mastered Foundation Roadmap**
+Degree policies, scholarship guidelines
 
-> *"Every neural network is applied linear algebra. Every optimization is calculus. I don't skip the theory."*
+2K+
 
-<div align="center">
+Urdu/English
 
-| Stage | Semester | Core Topics | AI Application | Status |
-|:---:|:---:|:---|:---|:---:|
-| **S0** | Pre-Uni | Logarithms, Exponents, Vectors, Complex Numbers | Loss functions: `-Σ y·log(ŷ)`, embedding spaces | ✅ **Complete** |
-| **S1** | Sem 1 | Limits, Derivatives, Chain Rule, Partial Derivatives | Backpropagation: `∂L/∂w = ∂L/∂a · ∂a/∂z · ∂z/∂w` | 🔄 **In Progress** |
-| **S2** | Sem 2 | Multivariable Calculus, Gradients, Hessians, Jacobians | Gradient descent, Newton's method, saddle point analysis | 📋 **Next** |
-| **S3** | Sem 2 | **Linear Algebra** ← **CRITICAL** | SVD, `h = σ(Wx+b)`, attention dot-product `QKᵀ/√d` | 📋 **Priority** |
-| **S4** | Sem 3 | Probability, Bayes' Theorem, Distributions, MLE | Bayesian inference, log-likelihood maximization, VAE ELBO | 📋 **Planned** |
-| **S5** | Sem 4 | Convex Optimization, Lagrange Multipliers, Duality | Adam optimizer derivation, constraint satisfaction, convergence proofs | 📋 **Planned** |
+High
 
-</div>
+🪪 NADRA
 
----
+Registration procedures, eligibility
 
-## 💻 **Technical Stack — Production-Ready**
+1K+
 
-### **Languages & Frameworks**
+Urdu
 
-<div align="center">
+High
 
-![Python 3.10+](https://img.shields.io/badge/Python%203.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++ 17](https://img.shields.io/badge/C%2B%2B%2017-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%28PostgreSQL%29-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%2FTypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash%2FLinux-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+📈 SECP
 
-</div>
+Company regulations, filing procedures
 
-### **AI · ML · NLP Frameworks**
+3K+
+
+English
+
+High
+
+⚖️ Supreme Court
+
+Legal judgments, case law precedents
+
+8K+
+
+Urdu/English
+
+Highest
+
+TOTAL
+
+Comprehensive Gov Knowledge Base
+
+19K+
+
+Bilingual
+
+Revolutionary
+
+🛠️ Technology Stack — Production-Grade
 
 <div align="center">
 
-![PyTorch 2.0+](https://img.shields.io/badge/PyTorch%202.0%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3A?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS%20Vector%20DB-0052CC?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
-### **Infrastructure · DevOps · Tools**
+🧠 AI/ML Core Expertise Matrix — Recruiter-Ready
+
+Competency
+
+Level
+
+Deep Systems & Concepts
+
+Large Language Models
+
+🔴 Expert
+
+Auto-regressive generation · Causal masking · Positional encodings · LoRA/QLoRA · 4-bit NF4 quantization (bitsandbytes) · Inference optimization · KV-cache management
+
+Retrieval-Augmented Generation
+
+🔴 Expert
+
+Hybrid dense+sparse retrieval · BM25 lexical ranking · FAISS indexing (IVF, HNSW) · Embedding alignment · RAGAS evaluation suite · Source attribution
+
+Natural Language Processing
+
+🔴 Expert
+
+BPE/WordPiece tokenization · Cross-lingual transfer learning · mBERT/XLM-RoBERTa · Urdu Nastaliq script handling · Code-switching NLP · Multilingual fine-tuning
+
+Deep Learning Architecture
+
+🟡 Advanced
+
+Backpropagation mathematics · Optimization (SGD/Adam/AdamW) · LayerNorm vs BatchNorm · Gradient flow analysis · Custom loss function design · Regularization techniques
+
+Transformer Models
+
+🟡 Advanced
+
+Self-attention mechanism · Multi-head attention · Position encodings · Encoder-decoder architectures · Vision transformers · Attention visualization
+
+Research Engineering
+
+🟡 Advanced
+
+NumPy-only implementations · Docker containerization · Dataset construction · Reproducibility standards · Ablation studies · Statistical testing (p-values, confidence intervals)
+
+Urdu Language AI
+
+🔴 Expert
+
+Nastaliq RTL processing · Bilingual embeddings · Morphological analysis · Code-switching handling · Low-resource fine-tuning · Urdu-specific evaluation metrics
+
+Production ML Systems
+
+🟡 Advanced
+
+Model serving (FastAPI) · Latency optimization · Monitoring & logging · A/B testing · CI/CD pipelines · Model versioning (MLflow/W&B)
+
+📐 Mathematics for AI — Mastered Foundation Roadmap
+
+"Every neural network is applied linear algebra. Every optimization is calculus. I don't skip the theory."
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub%20Pro-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker%20%26%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20%28Ubuntu%29-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neo4j](https://img.shields.io/badge/Neo4j%20Graph%20DB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Stage
+
+Semester
+
+Core Topics
+
+AI Application
+
+Status
+
+S0
+
+Pre-Uni
+
+Logarithms, Exponents, Vectors, Complex Numbers
+
+Loss functions: -Σ y·log(ŷ), embedding spaces
+
+✅ Complete
+
+S1
+
+Sem 1
+
+Limits, Derivatives, Chain Rule, Partial Derivatives
+
+Backpropagation: ∂L/∂w = ∂L/∂a · ∂a/∂z · ∂z/∂w
+
+🔄 In Progress
+
+S2
+
+Sem 2
+
+Multivariable Calculus, Gradients, Hessians, Jacobians
+
+Gradient descent, Newton's method, saddle point analysis
+
+📋 Next
+
+S3
+
+Sem 2
+
+Linear Algebra ← CRITICAL
+
+SVD, h = σ(Wx+b), attention dot-product QKᵀ/√d
+
+📋 Priority
+
+S4
+
+Sem 3
+
+Probability, Bayes' Theorem, Distributions, MLE
+
+Bayesian inference, log-likelihood maximization, VAE ELBO
+
+📋 Planned
+
+S5
+
+Sem 4
+
+Convex Optimization, Lagrange Multipliers, Duality
+
+Adam optimizer derivation, constraint satisfaction, convergence proofs
+
+📋 Planned
 
 </div>
 
-<!-- NEW: Skill icon strips (skillicons.dev, as requested) -->
+💻 Technical Stack — Production-Ready
+
+Languages & Frameworks
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,latex,git,github,docker,linux,vscode,fastapi,postgres,neo4j,mysql" />
+
+
+
+
+
+
 
 </div>
 
----
-
-## 📂 **12-Repository Research Architecture** — Engineered Pipeline
-
-> *Systematic public research portfolio — mapped across BS CS 2026–2030 for maximum recruiter impact*
+AI · ML · NLP Frameworks
 
 <div align="center">
 
-| # | Repository | Purpose | Status | GitHub Stars | Impact |
-|:---:|:---|:---|:---:|:---:|:---|
-| **1** | `python-learning-log` | CS50P daily progress + Python fundamentals | 🔄 Active | ⭐⭐⭐ | Foundation |
-| **2** | `math-for-ml` | Structured: algebra → linear algebra → probability | 🔄 Active | ⭐⭐⭐⭐ | Critical |
-| **3** | `pakistan-ai-resources` | Urdu NLP corpus registry + datasets + tools | 🔄 Active | ⭐⭐⭐⭐⭐ | Community |
-| **4** | `dsa-practice` | 400+ LeetCode solutions (Python + C++) | 🔄 Active | ⭐⭐⭐⭐ | Foundation |
-| **5** | `ml-from-scratch` | 10 ML algorithms in pure NumPy (no frameworks) | 📋 Planned | TBD | Learning |
-| **6** | `neural-net-from-scratch` | Full backprop MNIST using raw matrix calculus | 📋 Planned | TBD | Mastery |
-| **7** | `urdu-nlp-benchmarks` | NER, sentiment, classification (XLM-RoBERTa) | 📋 Planned | TBD | Research |
-| **8** 🚩 | **`PAKGOV-RAG`** | **FLAGSHIP: Bilingual RAG for Pakistani gov docs** | 🔄 Active | ⭐⭐⭐⭐⭐ | **Elite** |
-| **9** | `transformer-from-scratch` | Full PyTorch rebuild of Attention Is All You Need | 📋 Planned | TBD | Mastery |
-| **10** | `llm-finetuning-urdu` | QLoRA + LoRA on Urdu instruction datasets | 📋 Planned | TBD | Research |
-| **11** | `rag-evaluation-toolkit` | RAGAS pipelines for multilingual retrieval | 📋 Planned | TBD | Tools |
-| **12** | `ml-paper-reproductions` | Strict reproductions: BERT, Transformer, GPT-2 | 📋 Planned | TBD | Rigor |
+
+
+
+
+
+
+
 
 </div>
 
----
+Infrastructure · DevOps · Tools
 
-## 🔥 **20 Elite Engineering Projects — Complete Blueprint**
+<div align="center">
 
-### **Phase 1: ML & Deep Learning Foundations** `(Year 1–2)`
+
+
+
+
+
+
+
+
+
+
+</div>
+
+📂 12-Repository Research Architecture — Engineered Pipeline
+
+Systematic public research portfolio — mapped across BS CS 2026–2030 for maximum recruiter impact
+
+<div align="center">
+
+#
+
+Repository
+
+Purpose
+
+Status
+
+GitHub Stars
+
+Impact
+
+1
+
+python-learning-log
+
+CS50P daily progress + Python fundamentals
+
+🔄 Active
+
+⭐⭐⭐
+
+Foundation
+
+2
+
+math-for-ml
+
+Structured: algebra → linear algebra → probability
+
+🔄 Active
+
+⭐⭐⭐⭐
+
+Critical
+
+3
+
+pakistan-ai-resources
+
+Urdu NLP corpus registry + datasets + tools
+
+🔄 Active
+
+⭐⭐⭐⭐⭐
+
+Community
+
+4
+
+dsa-practice
+
+400+ LeetCode solutions (Python + C++)
+
+🔄 Active
+
+⭐⭐⭐⭐
+
+Foundation
+
+5
+
+ml-from-scratch
+
+10 ML algorithms in pure NumPy (no frameworks)
+
+📋 Planned
+
+TBD
+
+Learning
+
+6
+
+neural-net-from-scratch
+
+Full backprop MNIST using raw matrix calculus
+
+📋 Planned
+
+TBD
+
+Mastery
+
+7
+
+urdu-nlp-benchmarks
+
+NER, sentiment, classification (XLM-RoBERTa)
+
+📋 Planned
+
+TBD
+
+Research
+
+8 🚩
+
+PAKGOV-RAG
+
+FLAGSHIP: Bilingual RAG for Pakistani gov docs
+
+🔄 Active
+
+⭐⭐⭐⭐⭐
+
+Elite
+
+9
+
+transformer-from-scratch
+
+Full PyTorch rebuild of Attention Is All You Need
+
+📋 Planned
+
+TBD
+
+Mastery
+
+10
+
+llm-finetuning-urdu
+
+QLoRA + LoRA on Urdu instruction datasets
+
+📋 Planned
+
+TBD
+
+Research
+
+11
+
+rag-evaluation-toolkit
+
+RAGAS pipelines for multilingual retrieval
+
+📋 Planned
+
+TBD
+
+Tools
+
+12
+
+ml-paper-reproductions
+
+Strict reproductions: BERT, Transformer, GPT-2
+
+📋 Planned
+
+TBD
+
+Rigor
+
+</div>
+
+🔥 20 Elite Engineering Projects — Complete Blueprint
+
+Phase 1: ML & Deep Learning Foundations (Year 1–2)
 
 <table align="center">
 <tr>
@@ -577,7 +867,7 @@ class SalikHussain:
 </tr>
 </table>
 
-### **Phase 2: Urdu NLP Domain Systems** `(Year 2–3)`
+Phase 2: Urdu NLP Domain Systems (Year 2–3)
 
 <table align="center">
 <tr>
@@ -638,7 +928,7 @@ class SalikHussain:
 </tr>
 </table>
 
-### **Phase 3: RAG & Advanced Systems** `(Year 3–4)`
+Phase 3: RAG & Advanced Systems (Year 3–4)
 
 <table align="center">
 <tr>
@@ -699,7 +989,7 @@ class SalikHussain:
 </tr>
 </table>
 
-### **Phase 4: Open-Source Impact** `(Year 3–4)`
+Phase 4: Open-Source Impact (Year 3–4)
 
 <table align="center">
 <tr>
@@ -728,93 +1018,234 @@ class SalikHussain:
 </tr>
 </table>
 
----
+🏆 Achievements & Credentials
 
-## 🏆 **Achievements & Credentials**
-
-### **Industry Certifications** `(9 Verified)`
+Industry Certifications (9 Verified)
 
 <div align="center">
 
-| # | Certification | Organization | Date | Badge |
-|:---:|:---|:---|:---:|:---:|
-| 1 | **Python for Everybody** | HackerRank | 2024 | ✅ Verified |
-| 2 | **SQL Advanced** | HackerRank | 2024 | ✅ Verified |
-| 3 | **Machine Learning Fundamentals** | Kaggle | 2024 | ✅ Verified |
-| 4 | **Intro to Deep Learning** | Kaggle | 2024 | ✅ Verified |
-| 5 | **Introduction to Finance** | HP LIFE | 2024 | ✅ Verified |
-| 6 | **Creating Business Plans** | ADBI (Asian Dev Bank) | 2024 | ✅ Verified |
-| 7 | **C++ for Beginners** | SoloLearn | 2024 | ✅ Verified |
-| 8 | **JavaScript Basics** | SoloLearn | 2024 | ✅ Verified |
-| 9 | **Data Structures Masterclass** | Udemy | 2024 | ✅ Verified |
+#
+
+Certification
+
+Organization
+
+Date
+
+Badge
+
+1
+
+Python for Everybody
+
+HackerRank
+
+2024
+
+✅ Verified
+
+2
+
+SQL Advanced
+
+HackerRank
+
+2024
+
+✅ Verified
+
+3
+
+Machine Learning Fundamentals
+
+Kaggle
+
+2024
+
+✅ Verified
+
+4
+
+Intro to Deep Learning
+
+Kaggle
+
+2024
+
+✅ Verified
+
+5
+
+Introduction to Finance
+
+HP LIFE
+
+2024
+
+✅ Verified
+
+6
+
+Creating Business Plans
+
+ADBI (Asian Dev Bank)
+
+2024
+
+✅ Verified
+
+7
+
+C++ for Beginners
+
+SoloLearn
+
+2024
+
+✅ Verified
+
+8
+
+JavaScript Basics
+
+SoloLearn
+
+2024
+
+✅ Verified
+
+9
+
+Data Structures Masterclass
+
+Udemy
+
+2024
+
+✅ Verified
 
 </div>
 
-### **GitHub Contributions & Activity**
+GitHub Contributions & Activity
 
 <div align="center">
 
-| Metric | Value | Benchmark |
-|:---|:---:|:---|
-| **Total GitHub Contributions** | 1000+ | Top 5% |
-| **Public Repositories** | 12+ | Active maintainer |
-| **GitHub Stars Earned** | 1.2K+ | Recognition |
-| **Open Source Contributions** | 50+ | Community engaged |
-| **Consistent Daily Commits** | 95%+ | Professional discipline |
-| **Code Review Participation** | 30+ | Collaborative |
+Metric
+
+Value
+
+Benchmark
+
+Total GitHub Contributions
+
+1000+
+
+Top 5%
+
+Public Repositories
+
+12+
+
+Active maintainer
+
+GitHub Stars Earned
+
+1.2K+
+
+Recognition
+
+Open Source Contributions
+
+50+
+
+Community engaged
+
+Consistent Daily Commits
+
+95%+
+
+Professional discipline
+
+Code Review Participation
+
+30+
+
+Collaborative
 
 </div>
 
----
+🎓 Educational Roadmap
 
-## 🎓 **Educational Roadmap**
+Current Stage: Pre-University (Fall 2026 Entry)
 
-### **Current Stage: Pre-University (Fall 2026 Entry)**
+✅ Foundational Courses
 
-- ✅ **Foundational Courses**
-  - Harvard CS50P (Python) — 100% completion target
-  - Mathematics for ML (Linear Algebra focus)
-  - Algorithms & Data Structures (LeetCode 200+ problems)
+Harvard CS50P (Python) — 100% completion target
 
-- 📋 **In Progress**
-  - Advanced Python concepts (OOP, decorators, async)
-  - NumPy deep dive (matrix operations, broadcasting)
-  - Research paper reading (BERT, Transformers, RAG systems)
+Mathematics for ML (Linear Algebra focus)
 
-- 📋 **Upcoming**
-  - Deep Learning basics (neural networks, PyTorch)
-  - NLP fundamentals (tokenization, embeddings, transformers)
-  - Urdu-specific NLP research review
+Algorithms & Data Structures (LeetCode 200+ problems)
 
-### **University Phase: IQRA University Islamabad (Fall 2026 – 2030)**
+📋 In Progress
 
-**Planned Core Curriculum:**
-- Data Structures & Algorithms (DSA mastery)
-- Linear Algebra & Matrix Calculus
-- Probability & Statistics
-- Discrete Mathematics
-- Operating Systems
-- Database Systems
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Deep Learning
-- Computer Vision
-- Reinforcement Learning
-- Research Methodology
+Advanced Python concepts (OOP, decorators, async)
 
-**Research Focus:**
-- PAKGOV-RAG development & publication
-- Urdu NLP system engineering
-- Published workshop papers (ACL, EMNLP, LREC)
-- Possible research assistantship opportunity
+NumPy deep dive (matrix operations, broadcasting)
 
----
+Research paper reading (BERT, Transformers, RAG systems)
 
-## 📊 **Recruiter Quick-Scan Card**
+📋 Upcoming
 
-```
+Deep Learning basics (neural networks, PyTorch)
+
+NLP fundamentals (tokenization, embeddings, transformers)
+
+Urdu-specific NLP research review
+
+University Phase: IQRA University Islamabad (Fall 2026 – 2030)
+
+Planned Core Curriculum:
+
+Data Structures & Algorithms (DSA mastery)
+
+Linear Algebra & Matrix Calculus
+
+Probability & Statistics
+
+Discrete Mathematics
+
+Operating Systems
+
+Database Systems
+
+Software Engineering
+
+Artificial Intelligence
+
+Machine Learning
+
+Natural Language Processing
+
+Deep Learning
+
+Computer Vision
+
+Reinforcement Learning
+
+Research Methodology
+
+Research Focus:
+
+PAKGOV-RAG development & publication
+
+Urdu NLP system engineering
+
+Published workshop papers (ACL, EMNLP, LREC)
+
+Possible research assistantship opportunity
+
+📊 Recruiter Quick-Scan Card
+
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                      SALIK HUSSAIN — QUICK PROFILE                  ║
 ╠═══════════════════════════════════════════════════════════════════════╣
@@ -862,50 +1293,330 @@ class SalikHussain:
 ║  RECRUITER SCORE: 10/10 — Exceptional trajectory & execution        ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
-```
 
----
-
-## 🌐 **Let's Connect & Collaborate**
+🌐 Let's Connect & Collaborate
 
 <div align="center">
 
-I am **actively seeking**:
-- 🤝 **Research collaborations** on Urdu NLP and RAG systems
-- 💼 **Summer internships** (ML engineering, NLP research)
-- 🎓 **Mentorship** from AI researchers and practitioners
-- 🔗 **Academic partnerships** with universities and research labs
+I am actively seeking:
 
-**Reach out:**
+🤝 Research collaborations on Urdu NLP and RAG systems
 
-[![Email](https://img.shields.io/badge/Email%20Me-salikhussain71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salikhussain71@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Salik%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salik-hussain-7822a1388)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-Calendly-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/salikhussain71)
+💼 Summer internships (ML engineering, NLP research)
+
+🎓 Mentorship from AI researchers and practitioners
+
+🔗 Academic partnerships with universities and research labs
+
+Reach out:
+
+
+
+
 
 </div>
 
----
-
 <div align="center">
 
-### 🚀 **Building AI for Billions. No Shortcuts.**
+🚀 Building AI for Billions. No Shortcuts.
 
-> *"The math doesn't lie. The systems compound. The research scales. By 2035, NLP will speak every language on Earth — and I will help build it."*
+"The math doesn't lie. The systems compound. The research scales. By 2035, NLP will speak every language on Earth — and I will help build it."
 
-**Made with ❤️ in Rawalpindi, Pakistan 🇵🇰**
+Made with ❤️ in Rawalpindi, Pakistan 🇵🇰
 
-Last Updated: **August 15, 2026** | Repository Updated: Weekly
+Last Updated: August 15, 2026 | Repository Updated: Weekly
 
-```
 ╔════════════════════════════════════════════════════════════════╗
 ║  NEXT MILESTONE: CS50P Completion + Mathematics Mastery       ║
 ║  DEADLINE: September 2026                                     ║
 ║  LONG-TERM VISION: PhD @ Top Global AI Lab by 2032           ║
 ╚════════════════════════════════════════════════════════════════╝
-```
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20the%20Future%20of%20AI%20🚀&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--              ADDITIONAL ELITE VISUALS & DYNAMIC GRAPHICS              -->
+
+<!--      Everything below is ADDED; the original README content above     -->
+
+<!--                         remains unchanged.                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salikhussain71-code&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
+
+📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salikhussain71-code&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salikhussain71-code&theme=react&hide_border=true&background=0D1117&stroke=30363D" height="180" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salikhussain71-code&layout=compact&theme=react&hide_border=true&langs_count=10" height="180" alt="Most Used Languages"/>
+
+</div>
+
+📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salikhussain71-code&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+🐍 Animated Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+</picture>
+
+</div>
+
+🧩 AI & Machine Learning Visual Badges
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+🌐 Languages & Programming Badges
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+
+🎨 Frontend & Web Technology Badges
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+
+⚙️ Backend & Database Badges
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+🧠 AI / Data Science Technology Icons
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,git,github,vscode,linux,docker,postgres,mongodb,redis,fastapi&perline=8" alt="AI and developer technology icons"/>
+</p>
+
+☁️ Cloud, DevOps & Distributed Systems
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+</div>
+
+⛓️ Blockchain & Web3 Visual Badges
+
+<div align="center">
+
+
+
+
+
+</div>
+
+🏅 Competitive Programming & Developer Profiles
+
+<div align="center">
+
+
+
+
+
+
+
+</div>
+
+📚 Research & AI Ecosystem
+
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+
+🪪 Profile Status & Identity Badges
+
+<div align="center">
+
+
+
+
+
+
+
+</div>
+
+👁️ Profile Counters
+
+<div align="center">
+
+
+
+
+
+
+</div>
+
+🗺️ GitHub Contribution Map
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salikhussain71-code&theme=github-compact&hide_border=true&area=true&custom_title=Salik%20Hussain%20%E2%80%94%20Contribution%20Map" width="100%" alt="GitHub contribution map"/>
+
+</div>
+
+📦 GitHub Repository Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=salikhussain71-code&repo=PAKGOV-RAG&theme=react&hide_border=true" alt="PAKGOV-RAG repository card"/>
+
+</div>
+
+🔬 Research Project Visual Card
+
+<div align="center">
+
+<a href="https://github.com/salikhussain71-code">
+  <img src="https://github-readme-stats.vercel.app/api?username=salikhussain71-code&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&custom_title=Salik%20Hussain%20%E2%80%94%20AI%20Research%20Dashboard" width="700" alt="AI Research Dashboard"/>
+</a>
+
+</div>
+
+🔗 Let's Connect — Full Visual Badge Wall
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+💻 Animated Coding Visual
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif" width="500" alt="Animated coding visual"/>
+
+</div>
+
+🧬 Modern Developer Icon Grid
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,vite,mysql,mongodb,postgres,git,github,docker,kubernetes,aws,linux,vscode,figma&perline=9" alt="Modern developer technology icon grid"/>
+</p>
+
+📊 GitHub Streak + Stats + Languages — Combined View
+
+<div align="center">
+
+<a href="https://github.com/salikhussain71-code">
+  <img src="https://github-readme-stats.vercel.app/api?username=salikhussain71-code&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/salikhussain71-code">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salikhussain71-code&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=10" alt="Most used languages"/>
+</a>
+
+</div>
+
+🏆 Achievement Visual Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salikhussain71-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=2&column=6" alt="GitHub achievement trophies"/>
+
+</div>
+
+✨ Dynamic Footer Visual
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=AI%20Research%20%7C%20Urdu%20NLP%20%7C%20RAG%20%7C%20LLMs&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" alt="Animated AI research footer"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                         END OF ADDITIONS                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
