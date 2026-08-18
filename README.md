@@ -453,3 +453,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark"/>
+</p>
