@@ -3,72 +3,38 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=SALIK%20HUSSAIN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BS%20Computer%20Science%20Roadmap%20%7C%20Urdu%20NLP%20%7C%20Trustworthy%20AI&descSize=19&descAlignY=64&descColor=00D4FF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=BS+Computer+Science+%40+Iqra+University+Islamabad;Urdu+NLP+%7C+Roman+Urdu+%7C+Reliable+RAG;10+Projects+%7C+6+Papers+%7C+6+Internships+%7C+6+Letters;Goal%3A+Fully+funded+MS+in+AI+abroad" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=CS+Student+%7C+Urdu+NLP+%26+RAG+Systems+%7C+Math-driven+ML;BS+Computer+Science+%40+Iqra+University+Islamabad;10+Certifications+%7C+Building+PAKGOV-RAG;Goal%3A+Fully+funded+MS+in+AI+abroad" alt="Typing animation"/>
 </a>
 
 <br/><br/>
 
-<img alt="Snake" src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=salikhussain71-code&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=salikhussain71-code&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/salikhussain71-code?style=for-the-badge&color=007ACC&logo=github&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-Research%20Mentorship-28A745?style=for-the-badge" alt="Mentorship"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-Research%20Mentorship-28A745?style=for-the-badge" alt="Open to mentorship"/>
 
 <br/><br/>
 
-[
+<a href="mailto:salikhussain71@gmail.com"><img src="https://img.shields.io/badge/Gmail-salikhussain71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/salik-hussain-7822a1388"><img src="https://img.shields.io/badge/LinkedIn-Salik%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://salikhussain71-code.github.io"><img src="https://img.shields.io/badge/Portfolio-salikhussain71--code.github.io-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<br/>
+<a href="https://www.kaggle.com/salikhussain"><img src="https://img.shields.io/badge/Kaggle-salikhussain-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://leetcode.com/u/salikhussain71/"><img src="https://img.shields.io/badge/LeetCode-salikhussain71-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://orcid.org/0009-0002-2163-1728"><img src="https://img.shields.io/badge/ORCID-0009--0002--2163--1728-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+<a href="https://x.com/salikhussain71"><img src="https://img.shields.io/badge/X-@salikhussain71-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-![Email](https://img.shields.io/badge/Gmail-salikhussain71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br/><br/>
 
-](mailto:salikhussain71@gmail.com)
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Salik%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/salik-hussain-7822a1388)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-salikhussain71--code-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/salikhussain71-code)
-[
-
-![Kaggle](https://img.shields.io/badge/Kaggle-salikhussain-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-](https://kaggle.com/salikhussain)
-[
-
-![X](https://img.shields.io/badge/X-@salikhussain71-000000?style=for-the-badge&logo=x&logoColor=white)
-
-](https://x.com/salikhussain71)
-
-
-
-![Location](https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-FF6B35?style=flat-square)
-
-
-[
-
-![University](https://img.shields.io/badge/University-Iqra%20Islamabad%20(H--9)
-
--8A2BE2?style=flat-square)](https://www.iqra.edu.pk/isl/)
-
-
-![Degree](https://img.shields.io/badge/Degree-BS%20CS%20(136%20credits)
-
--1E90FF?style=flat-square)
-
-
-![Started](https://img.shields.io/badge/Started-October%202026-28A745?style=flat-square)
-
-
-
-
-![CGPA](https://img.shields.io/badge/CGPA%20Target-3.85%2B-FFD700?style=flat-square)
-
-
+<img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-FF6B35?style=flat-square" alt="Location"/>
+<a href="https://www.iqra.edu.pk/isl/"><img src="https://img.shields.io/badge/University-Iqra%20Islamabad%20H9%20Campus-8A2BE2?style=flat-square" alt="University"/></a>
+<img src="https://img.shields.io/badge/Degree-BS%20CS%20136%20credits-1E90FF?style=flat-square" alt="Degree"/>
+<img src="https://img.shields.io/badge/Started-October%202026-28A745?style=flat-square" alt="Started"/>
+<img src="https://img.shields.io/badge/CGPA%20Target-3.85%2B-FFD700?style=flat-square" alt="CGPA target"/>
+<img src="https://img.shields.io/badge/Certifications-10-FF1744?style=flat-square" alt="Certifications"/>
 
 </div>
 
@@ -78,17 +44,75 @@
 
 Hello, I am **Salik Hussain**, a Computer Science student from Rawalpindi, Pakistan.
 
-I started my **BS Computer Science at [Iqra University Islamabad](https://www.iqra.edu.pk/isl/) in October 2026**. My school background is Pre-Medical (F.Sc. PCB), so I follow the 136-credit pre-medical track with two extra math courses.
+I started my **BS Computer Science at [Iqra University Islamabad](https://www.iqra.edu.pk/isl/) in October 2026**. My school background is Pre-Medical (F.Sc. PCB), so I follow the 136-credit pre-medical track with two extra math courses. Before my first class, I finished **10 online certifications** in programming, AI, databases and security (see below).
 
 My research question in one line:
 
 > **Can AI give correct, trusted answers in Urdu, Roman Urdu and Urdu-English mixed text?**
 
+I am building **PAKGOV-RAG**, a bilingual Urdu-English retrieval-augmented generation (RAG) system for Pakistani government documents. Its current stack is Python, Git, FAISS and LangChain. I am still learning PyTorch and Hugging Face.
+
 **My promise:** everything on this page is either finished, in progress, or clearly marked **Planned**. I do not claim results I have not earned yet.
+
+### 🔗 Find Me Online
+
+| Where | Link |
+|:--|:--|
+| 🌐 Portfolio | [salikhussain71-code.github.io](https://salikhussain71-code.github.io) |
+| 💼 LinkedIn | [linkedin.com/in/salik-hussain-7822a1388](https://linkedin.com/in/salik-hussain-7822a1388) |
+| 🧑‍💻 GitHub | [github.com/salikhussain71-code](https://github.com/salikhussain71-code) |
+| 🧩 LeetCode | [leetcode.com/u/salikhussain71](https://leetcode.com/u/salikhussain71/) |
+| 📊 Kaggle | [kaggle.com/salikhussain](https://www.kaggle.com/salikhussain) |
+| 🔬 ORCID | [0009-0002-2163-1728](https://orcid.org/0009-0002-2163-1728) |
+| 📧 Email | salikhussain71@gmail.com |
 
 ### 📑 Contents
 
-[Big Picture](#-the-big-picture) · [Priorities](#-my-priority-order) · [Year 1](#-year-1-2026-2027-foundation) · [Year 2](#-year-2-2027-2028-core-cs-and-first-research) · [Year 3](#-year-3-2028-2029-ai-core-and-elite-research) · [Year 4](#-year-4-2029-2030-flagship-and-ms-applications) · [Projects](#-the-10-skill-projects) · [Research](#-the-10-research-projects) · [Papers](#-the-6-research-papers) · [Internships](#-the-6-internships) · [Letters](#-the-6-recommendation-letters) · [Products](#-products-apps-and-agents) · [Clubs](#-university-activities) · [Tests](#-tests-sop-and-resume) · [MS Targets](#-ms-target-universities) · [Skills](#-skills-and-tools)
+[Certifications](#-certifications-already-completed) · [Big Picture](#-the-big-picture) · [Priorities](#-my-priority-order) · [Year 1](#-year-1-2026-to-2027-foundation) · [Year 2](#-year-2-2027-to-2028-core-cs-and-first-research) · [Year 3](#-year-3-2028-to-2029-ai-core-and-elite-research) · [Year 4](#-year-4-2029-to-2030-flagship-and-ms-applications) · [Skill Projects](#-the-10-skill-projects) · [Research](#-the-10-research-projects) · [Papers](#-the-6-research-papers) · [Internships](#-the-6-internships) · [Letters](#-the-6-recommendation-letters) · [Products](#-products-apps-and-agents) · [Clubs](#-university-activities) · [Tests](#-tests-sop-and-resume) · [MS Targets](#-ms-target-universities) · [Skills](#-skills-and-tools)
+
+---
+
+## 🏅 Certifications (Already Completed)
+
+All 10 were issued in **August and September 2026**, before my university classes began. Certificates show learning. They are not research results, and I list them honestly as that.
+
+```mermaid
+pie showData
+    title Certifications by Provider
+    "Harvard CS50" : 4
+    "IBM SkillsBuild" : 2
+    "Google" : 1
+    "The Open University" : 1
+    "University of Helsinki" : 1
+    "Anthropic" : 1
+```
+
+| Certificate | Provider | Issued | What it covered | Verify |
+|:--|:--|:-:|:--|:--|
+| **CS50x: Introduction to Computer Science** | Harvard | Aug 2026 | 10 problem sets and a final project: C, Python, SQL, algorithms, data structures, web | [Verify](https://cs50.harvard.edu/certificates/97ecbed9-2822-46c7-9c50-22473eb35b72) |
+| **CS50 AI with Python** | Harvard | Aug 2026 | 12 projects: search, knowledge, uncertainty, optimization, machine learning, neural networks, NLP, attention | [Verify](https://cs50.harvard.edu/certificates/3cb5f3d3-db92-40d5-839e-ca8bca5ad6fd) |
+| **CS50 Databases with SQL** | Harvard | Aug 2026 | 7 problem sets and a final project: SQL and relational databases | [Verify](https://cs50.harvard.edu/certificates/03e98ffd-b4b2-4175-9ad4-5bf02c8d82e7) |
+| **CS50 Introduction to Cybersecurity** | Harvard | Sep 2026 | 5 graded assignments and a final project: passwords, encryption, hashing, secure communication | [Verify](https://cs50.harvard.edu/certificates/63ae6ed0-ecbc-47cd-b2b7-70320d7fc177) |
+| **Artificial Intelligence Fundamentals** | IBM SkillsBuild | Sep 2026 | ML, deep learning, NLP, computer vision, neural networks, chatbots, AI ethics. ID: bfe0dc1d-e245-444b-b046-c4d620b16bd2 | LinkedIn |
+| **Getting Started with Generative AI** | IBM SkillsBuild | Sep 2026 | Generative AI, LLMs, prompting, AI risks, IBM Granite. ID: PWID-B1036800 | LinkedIn |
+| **Machine Learning Crash Course** (numerical data module) | Google | Sep 2026 | How numerical features are represented and used in ML workflows | LinkedIn |
+| **Introduction to Programming in C** | The Open University | Sep 2026 | Core programming concepts and C fundamentals | LinkedIn |
+| **Elements of AI** (2 ECTS) | University of Helsinki | Aug 2026 | ML basics, neural networks, supervised and unsupervised learning, AI ethics. ID: vh5jd0sod38 | LinkedIn |
+| **Claude Platform 101** | Anthropic | Aug 2026 | Foundations of the Claude platform for building AI applications | LinkedIn |
+
+<!-- Optional: add your CodeAlpha role and dates here, in your own words, if you want to list it. -->
+
+### 💪 Practice Profiles
+
+| Profile | What I practice |
+|:--|:--|
+| [LeetCode](https://leetcode.com/u/salikhussain71/) | Arrays, strings, hash maps, binary search, trees, graphs, dynamic programming |
+| HackerRank | Python, data structures and algorithm challenges |
+| [Kaggle](https://www.kaggle.com/salikhussain) | Python and early machine learning practice |
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/salikhussain71?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" width="90%"/>
+</div>
 
 ---
 
@@ -101,6 +125,9 @@ mindmap
       Iqra BS CS
       136 credits
       CGPA 3.85 plus
+    Done Already
+      10 certifications
+      PAKGOV-RAG v0
     10 Skill Projects
       C++ to Python
       Databases and Search
@@ -139,8 +166,10 @@ gantt
     title Master Plan 2026 to 2030
     dateFormat YYYY-MM
     axisFormat %b %Y
+    section Done
+    10 certifications              :done, 2026-08, 2026-09
     section Degree
-    Year 1 Sem 1-2                 :2026-10, 2027-07
+    Year 1 Sem 1-2                 :active, 2026-10, 2027-07
     Year 2 Sem 3-4                 :2027-10, 2028-07
     Year 3 Sem 5-6                 :2028-10, 2029-07
     Year 4 Sem 7-8                 :2029-10, 2030-07
@@ -197,8 +226,7 @@ pie showData
 | **Below 3.50** | Warning | Reduce clubs, fix academics first |
 
 **Grade plan:** A or A+ in programming, math, algorithms and AI. B+ is acceptable in general education.
-**Weekly routine:** 5 short math sessions + 4 programming sessions + 1 review session. Adjust around exams.
-
+**Weekly routine:** 5 short math sessions + 4 programming sessions + 1 review session. I keep an error notebook and review it weekly.
 **Rule:** I finish one project at a time. I never start five big projects together.
 
 ---
@@ -222,6 +250,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 
 
 **Goal:** Strong grades, solid C++, algebra and calculus, Git habit, first research reading.
+**Head start:** My CS50x, Open University C, CS50 SQL and CS50 AI certificates already cover C, SQL and AI basics. C++ in Semester 1 is the new part.
 
 ### Semester 1: Fall 2026 (16 credits, registered)
 
@@ -233,7 +262,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 | GER152 | Applied Physics + Lab | 2+1 | Theory, formulas, units, lab reports |
 | MT011 | Pre-Calculus-I (math deficiency) | 3 | Algebra, equations, functions, graphs, exponents, logs, trigonometry |
 
-**Self-study:** C++ on [learncpp.com](https://www.learncpp.com/) · HTML and CSS · Git and GitHub · 20 to 30 minutes of math daily.
+**Self-study:** C++ on [learncpp.com](https://www.learncpp.com/) · HTML and CSS · Git and GitHub · 20 to 30 minutes of math daily · LeetCode practice.
 **Project 1:** Student Marks Calculator (C++).
 **Target:** Explain and write small C++ programs without copying, and solve foundation math alone.
 
@@ -250,7 +279,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 | GEN111 | Understanding of the Holy Quran-I | |
 | GERxxx | Arts & Humanities (pool) | |
 
-**Self-study:** Python basics · a C++ library-management project.
+**Self-study:** Python projects · a C++ library-management project.
 **Project 2:** Portfolio Website (HTML, CSS, GitHub). **Project 3:** Student Record System (OOP and file handling).
 **Research prep:** Learn to read an abstract, find the research question, and write a one-page literature summary. Review **PAKGOV-RAG Version 0** and list upgrades. Plan **Urdu-RomanX**. Do not rush to publish.
 
@@ -263,6 +292,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 
 ### ✅ Year 1 Checklist
 
+- [x] 10 certifications finished before university
 - [ ] CGPA 3.85 or higher
 - [ ] Projects 1, 2, 3 on GitHub with clear READMEs
 - [ ] Daily or near-daily small commits
@@ -279,14 +309,14 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 
 
 
-**Goal:** Master data structures and algorithms, learn Python and ML basics, finish my first research project and first paper draft.
+**Goal:** Master data structures and algorithms, learn ML basics, finish my first research project and first paper draft.
 
 ### Semester 3: Fall 2027
 
 | Code | Course | Notes |
 |:--|:--|:--|
 | CMC251 + Lab | Data Structures | Lists, stacks, queues, trees, hashing, complexity |
-| CMC331 + Lab | Database Systems | SQL, design, normalization, joins, transactions |
+| CMC331 + Lab | Database Systems | SQL, design, normalization, joins, transactions (CS50 SQL gives me a head start) |
 | CMC262 + Lab | Computer Networks | TCP/IP, DNS, HTTP, routing |
 | IDS112 | IDS-II Linear Algebra ⚠️ | Position depends on my math shift |
 | QR-II | Quantitative Reasoning-II | |
@@ -294,7 +324,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 | GERxxx | Social Science (pool) | |
 | GEN112 | Understanding of the Holy Quran-II | |
 
-**Self-study:** NumPy · pandas · SQL · basic Linux · Git branches and pull requests.
+**Self-study:** NumPy · pandas · basic Linux · Git branches and pull requests.
 **Project 4:** Data Structures Visualizer. **Project 5 (starts):** Student Performance Analytics (SQL and Python).
 **Research:** Read 10 papers in Urdu NLP or multilingual retrieval. Make a table: problem, method, dataset, results, limits.
 
@@ -325,7 +355,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 | Clubs | Sem 3: Softech + CSF + 🚀 Innovation. Sem 4: add Freelance Force only if manageable |
 | International Office | **High priority.** Check every exchange or mobility call. Apply if officially eligible |
 | Career Services | First serious CV review (Sem 3), internship counselling (Sem 4) |
-| Tests | 📝 NCT/HEC computing test self-check at the end of Sem 4 (DSA, databases, OS, networks, SE are fresh) |
+| Tests | 📝 NCT/HEC computing test self-check at the end of Sem 4 |
 
 ### ✅ Year 2 Checklist
 
@@ -354,7 +384,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 | CMC383 + Lab | Artificial Intelligence | Search, heuristics, state-space problems |
 | CSC341 | Theory of Automata | Formal languages, grammars |
 | CMC224 + Lab | Computer Org. & Architecture | |
-| CMC363 + Lab | Information Security | Helps my safety-testing work |
+| CMC363 + Lab | Information Security | Helps my safety-testing work (CS50 Cybersecurity gives a head start) |
 | IDS-III | Probability & Statistics ⚠️ | |
 | IDS-IV | Multivariable Calculus or Discrete Math ⚠️ | |
 
@@ -375,6 +405,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 ⚠️ The elective list is a proposal. I will ask for the official list and choose the closest match.
 **Self-study:** transformers · embeddings · a bilingual Urdu-English retrieval project.
 **Project 8 (starts):** PAKGOV-RAG improvement (retrieval metrics, source grounding).
+**Research milestone:** Submit a poster, workshop paper or student research proposal only if the work is genuinely new and the venue is credible.
 
 ### Year 3 Research and Career
 
@@ -398,7 +429,7 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 
 ---
 
-## 🔴 YEAR 4 (2029 to 2030): Flagship, Products and MS Applications
+## 🔴 YEAR 4 (2029 to 2030): Flagship and MS Applications
 
 
 
@@ -449,13 +480,13 @@ The curriculum follows the Iqra 136-credit pre-medical plan. Items marked ⚠️
 - [ ] FYP finished and published as open source
 - [ ] SOP, CV and letters done by October 2029
 - [ ] Applications sent before each official deadline
-- [ ] Funding forms and scholarship applications filed
+- [ ] Funding and scholarship forms filed
 
 ---
 
 # 💻 THE 10 SKILL PROJECTS
 
-These build my skills step by step. I finish fewer projects well rather than publishing many half-done repositories.
+I finish fewer projects well rather than publishing many half-done repositories.
 
 | # | Project | Stage | Main skills |
 |:-:|:--|:--|:--|
@@ -494,15 +525,15 @@ Two tracks, one coherent field: **trustworthy AI for Urdu and low-resource langu
 
 | # | Project | Question | Time |
 |:-:|:--|:--|:-:|
-| A1 | **PAK-AI-Bench** | How reliable are RAG systems in English, Urdu, Roman Urdu and mixed text? | Y3 to Y4 (12 to 18 months) |
-| A2 | **PAK-Multilingual-AI** | How does AI behave across Urdu, Roman Urdu, English, Urdu-English and Pashto? | Y4 and later (18 to 24 months) |
+| A1 | **PAK-AI-Bench** | How reliable are RAG systems in English, Urdu, Roman Urdu and mixed text? | Y3 to Y4 |
+| A2 | **PAK-Multilingual-AI** | How does AI behave across Urdu, Roman Urdu, English, Urdu-English and Pashto? | Y4 and later |
 | A3 | **AI Public-Service Reliability Lab** | Can we trust public-information AI? Tests hallucination, prompt injection, regression | Y3 to Y4 |
-| A4 | **RegulaPak** | What changed in an official regulation, and where is the proof? | Stretch (12 to 18 months) |
-| A5 | **PakVoice** | Can Urdu and English voice AI answer with evidence? | Stretch (12 to 18 months) |
+| A4 | **RegulaPak** | What changed in an official regulation, and where is the proof? | Stretch |
+| A5 | **PakVoice** | Can Urdu and English voice AI answer with evidence? | Stretch |
 
 ### ⭐ Flagship: PAKGOV-RAG-X
 
-My earlier PAKGOV-RAG is **Version 0 (pilot)**. I upgrade it step by step.
+My current PAKGOV-RAG is **Version 0 (pilot)**. I upgrade it step by step.
 
 ```mermaid
 flowchart LR
@@ -542,7 +573,7 @@ flowchart LR
 
 **A3 AI Public-Service Reliability Lab:** Evaluation platform for reliability (hallucination, factuality, grounding, citations), security (prompt injection, malicious documents), multilingual robustness, and regression (Model v1 vs v2). Output: an automatic **AI Reliability Report** with score, failure types, examples, evidence, severity and recommendations.
 
-**A4 RegulaPak:** Official documents → ingestion → version detection → comparison → change detection → AI explanation → evidence → human review → alert. Shows what changed, when, which section and the official source.
+**A4 RegulaPak:** Official documents → ingestion → version detection → comparison → change detection → AI explanation → evidence → human review → alert.
 
 **A5 PakVoice:** Voice → speech recognition → language ID → query → retrieval → evidence → LLM → citation check → text-to-speech. Not a general Siri. The question is how low-resource voice systems give reliable, evidence-grounded answers.
 </details>
@@ -575,9 +606,9 @@ flowchart LR
 |:-:|:--|:--|:-:|
 | 4 | PAK-AI-Bench: Evaluating RAG Reliability in Urdu-English and Code-Switched Public Information | A1 | 2028 to 2029 |
 | 5 | Measuring Low-Resource Multilingual Performance Gaps Across Urdu, Roman Urdu, Pashto and English | A2 | 2029 and later |
-| 6 | Reliable and Auditable RAG for Public-Service Information: Multilingual Grounding, Robustness and Evidence Verification | A3 + A4 + A5 | 2029 to 2030 |
+| 6 | Reliable and Auditable RAG for Public-Service Information | A3 + A4 + A5 | 2029 to 2030 |
 
-**Honest rules:** A paper is an outcome, not a guarantee. The real contribution decides the venue. I never submit just to reach a number. Do not make a paper depend only on my own model. All six are **Planned**.
+**Honest rules:** A paper is an outcome, not a guarantee. The real contribution decides the venue. I never submit just to reach a number. All six are **Planned**.
 
 ---
 
@@ -596,11 +627,11 @@ timeline
 
 | # | When | Where | Type | Aim |
 |:-:|:--|:--|:--|:--|
-| 1 | Winter break 2027-28 | [NUST SEECS](https://seecs.nust.edu.pk/) ([opportunities](https://seecs.nust.edu.pk/announcement/)) | Research | Python experiments, evaluation, first report. Ask faculty from Sem 3. Fallback: NUST NCAI |
-| 2 | Summer 2028 | **LUMS, on-site**, host: Dr. Agha Ali Raza (Urdu NLP) | Research | First real supervision and first letter. Email with GitHub link, results and a one-page plan |
-| 3 | Winter break 2028-29 | Remote research with an Urdu NLP group or [Cohere Labs Scholars](https://cohere.com/research) | Research | Co-authored paper (a good fit for the RAG paper) |
-| 4 | Summer 2029 | Funded abroad program (see table below) | Research | **Most valuable item for my MS applications** |
-| 5 | Summer 2028 or 2029 (backup) | [LUMS Summer Research Programme](https://or.lums.edu.pk/node/9688) · [Students as Co-Researchers](https://lli.lums.edu.pk/students-co-researchers) | Research | Confirm that it accepts Iqra students first |
+| 1 | Winter break 2027-28 | [NUST SEECS](https://seecs.nust.edu.pk/) ([opportunities](https://seecs.nust.edu.pk/announcement/)) | Research | Python experiments, evaluation, first report. Fallback: NUST NCAI |
+| 2 | Summer 2028 | **LUMS, on-site**, host: Dr. Agha Ali Raza (Urdu NLP) | Research | First real supervision and first letter |
+| 3 | Winter break 2028-29 | Remote research with an Urdu NLP group or [Cohere Labs Scholars](https://cohere.com/research) | Research | Co-authored paper |
+| 4 | Summer 2029 | Funded abroad program (table below) | Research | **Most valuable item for my MS applications** |
+| 5 | Summer 2028 or 2029 (backup) | [LUMS Summer Research Programme](https://or.lums.edu.pk/node/9688) · [Students as Co-Researchers](https://lli.lums.edu.pk/students-co-researchers) | Research | Confirm it accepts Iqra students first |
 | 6 | Fall 2029 (Sem 7) | Industry AI/ML or software team, remote allowed ([NUST CDC guide](https://cdc.nust.edu.pk/faqs/how-do-i-find-and-internship/)) | Applied | Prove I can build and maintain real software. Can count for CMC493 |
 
 **Abroad programs (apply in autumn 2028, apply to all):**
@@ -612,15 +643,13 @@ timeline
 | ETH Zurich Summer Research Fellowship | [ethz.ch](https://ethz.ch/) |
 | EPFL Summer in the Lab | [epfl.ch](https://www.epfl.ch/) |
 
-*I will check dates and eligibility on every official page. I have not confirmed the 2028-29 cycle. Nothing here is guaranteed. I skip company internships that add little to an MS application and cost time. MIT CSAIL is out of reach as an undergraduate.*
-
-**Also noted:** Google Summer of Code is software work with limited research value. Contacting supervisors is a **request, not a confirmed vacancy**. If one internship fails, I use the backup slot.
+*I will check dates and eligibility on every official page. I have not confirmed the 2028-29 cycle. Contacting a supervisor is a request, not a confirmed vacancy. If one slot fails, I use the backup.*
 
 ---
 
 # ✉️ THE 6 RECOMMENDATION LETTERS
 
-Most MS programs ask for about 3 letters. I build 6 relationships and send the **best 3** for each application. A letter is never guaranteed just because I finished an internship. I aim for people who directly supervised my work and can describe my real contribution.
+Most MS programs ask for about 3 letters. I build 6 relationships and send the **best 3** for each application. A letter is never guaranteed. I aim for people who directly supervised my work and can describe my real contribution.
 
 | # | Who | Source | Strength |
 |:-:|:--|:--|:--|
@@ -631,13 +660,13 @@ Most MS programs ask for about 3 letters. I build 6 relationships and send the *
 | 5 | Remote research mentor or co-author | Internship 3 | Good backup |
 | 6 | Industry supervisor | Internship 6 | Applied backup |
 
-**When to ask:** Introduce myself to professors from Year 1. Ask for letters in **September 2029**, with at least 4 to 6 weeks of notice. Send each writer my CV, SOP draft, transcript, project links and a deadline list.
+**When to ask:** Introduce myself to professors from Year 1. Ask for letters in **September 2029**, with 4 to 6 weeks of notice. Send each writer my CV, SOP draft, transcript, project links and a deadline list.
 
 ---
 
 # 💻 PRODUCTS, APPS AND AGENTS
 
-I merge everything into **one company idea, PAKAI**, instead of many separate startups. I will not invent prices, users or revenue before I have real customers.
+I merge everything into **one company idea, PAKAI**. I will not invent prices, users or revenue before I have real customers.
 
 ```mermaid
 flowchart TD
@@ -659,7 +688,7 @@ flowchart TD
 | # | Product | What it does | Customers | When |
 |:-:|:--|:--|:--|:-:|
 | 1 | **AI Reliability Lab** | Tests LLM, RAG and agent systems for hallucination, grounding, retrieval, citations, safety, multilingual quality. Report: score → failures → evidence → recommendations | AI startups, SaaS, software teams | Y3 to Y4 |
-| 2 | **PAKAI Verify** | Same idea as product 1, with free developer tier then paid tiers. I merge it with product 1 | AI teams, enterprises, universities | Y3 to Y4 |
+| 2 | **PAKAI Verify** | Same idea as product 1, with a free developer tier then paid tiers. Merged with product 1 | AI teams, enterprises, universities | Y3 to Y4 |
 | 3 | **GovAI Studio** | Private document assistant: search, RAG, citations, summaries, comparison, source tracking, audit trail | Law firms, universities, NGOs, compliance teams | Y4 |
 | 4 | **UrduAI Enterprise** | Urdu and Roman Urdu APIs | Education, telecom, media, e-commerce, fintech, support | Y4 |
 | 5 | **RegulaPak** | Watches official sources, detects changes, explains them with evidence, sends alerts | Legal, accounting, fintech, banks, exporters | Stretch |
@@ -672,17 +701,15 @@ flowchart TD
 | App | Purpose | When |
 |:--|:--|:-:|
 | Urdu-RomanX Web Demo | Try Urdu, Roman Urdu and mixed text | Y2 |
-| UrduCodeSwitch-Bench / PAK-AI-Bench Leaderboard | Model, task, language, score, failure rate, citation accuracy | Y3 |
+| Benchmark Leaderboard | Model, task, language, score, failure rate, citation accuracy | Y3 |
 | UrduIE-KG Explorer | Browse the Urdu knowledge graph | Y3 |
 | AI Reliability Lab Dashboard | Upload a system, get a reliability report | Y3 to Y4 |
 | PAKGOV-RAG-X Web App | Ask government questions with citations | Y4 |
 | RegulaPak Dashboard | New documents, changed sections, evidence, alerts | Stretch |
 
-### 🔌 APIs
+### 🔌 APIs and 🤖 Agents
 
-PAK-RAG API (search, retrieval, evidence) · PAKAI Verify API (evaluate an AI system) · PakVoice API (speech → AI → evidence-grounded answer).
-
-### 🤖 AI Agents
+**APIs:** PAK-RAG API (search, retrieval, evidence) · PAKAI Verify API (evaluate an AI system) · PakVoice API (speech → AI → evidence-grounded answer).
 
 | Agent | What it does | When |
 |:--|:--|:-:|
@@ -744,7 +771,7 @@ gantt
     Career Services        :2027-02, 2030-06
 ```
 
-**Question I ask the International Office (Sem 1):** *"I am a BS CS student planning for an MS in CS/AI/ML abroad. What semester-exchange and student-mobility opportunities are available to BS students, and what are their official eligibility requirements and deadlines?"* I also ask about partner universities, CGPA rule, credit transfer, funding and English requirements. I will not guess these rules; each call states them.
+**Question for the International Office (Sem 1):** *"I am a BS CS student planning for an MS in CS/AI/ML abroad. What semester-exchange and student-mobility opportunities are available to BS students, and what are their official eligibility requirements and deadlines?"* I also ask about partner universities, CGPA rule, credit transfer, funding and English requirements.
 
 ---
 
@@ -752,13 +779,13 @@ gantt
 
 | Item | What it is | When I do it | Notes |
 |:--|:--|:--|:--|
-| **NCT / HEC computing test** | Subject-wise computing test from my notes | Self-check end of Sem 4. Mock again in Sem 8. Official date from announcements | Confirm the exact name and date. Weights below |
-| **IELTS Academic or TOEFL iBT** | English proof for MS | Practice in Sem 6. **Test in June or late Aug 2029.** Retake window Sep to Oct 2029 | Scores are usually valid for 2 years, so this fits Fall 2030 entry. Many programs ask roughly IELTS 6.5 to 7.0. Check each |
-| **GRE General** | Quant and verbal test | Only if a target program requires or recommends it. Study Jul to Sep 2029, test by Oct 2029 | Often **optional** for my targets. Check before paying |
+| **NCT / HEC computing test** | Subject-wise computing test from my notes | Self-check end of Sem 4. Mock again in Sem 8. Official date from announcements | Confirm the exact name and date |
+| **IELTS Academic or TOEFL iBT** | English proof for MS | Practice in Sem 6. **Test in June or late Aug 2029.** Retake window Sep to Oct 2029 | Scores are usually valid for 2 years. Many programs ask roughly IELTS 6.5 to 7.0. Check each |
+| **GRE General** | Quant and verbal test | Only if a target program requires or recommends it. Study Jul to Sep 2029, test by Oct 2029 | Often **optional** for my targets |
 | **GMAT** | Business school test | **Skip** | It is for business programs, not MS CS or AI |
-| **Resume / CV** | 1 to 2 page technical CV | First review Sem 3. Update each semester. **Final by Oct 2029** | Projects → research → skills → achievements → internships. No list of random certificates |
+| **Resume / CV** | 1 to 2 page technical CV | First review Sem 3. Update each semester. **Final by Oct 2029** | Projects → research → skills → achievements → internships |
 | **SOP and research statement** | My story, research fit, future plan | Notes in summer 2029. **Draft 1 Aug to Sep 2029**, drafts 2 to 3 in Oct, final before each deadline | Customize for each university and professor |
-| **Transcripts and letters** | Official documents | Request transcripts Sep to Oct 2029. Ask letter writers in Sep 2029 | Give 4 to 6 weeks notice |
+| **Transcripts and letters** | Official documents | Request transcripts Sep to Oct 2029. Ask letter writers in Sep 2029 | Give 4 to 6 weeks of notice |
 
 ### 🧠 NCT / HEC Test Subjects (from my notes)
 
@@ -799,7 +826,7 @@ gantt
     Visa and travel                        :2030-05, 2030-08
 ```
 
-*Exact deadlines differ for every university and program. I use each official page and never rely on this chart alone.*
+*Exact deadlines differ for every university. I use each official page and never rely on this chart alone.*
 
 ---
 
@@ -814,7 +841,7 @@ gantt
 | 5 | **TU Munich**, Germany | [tum.de](https://www.tum.de/) |
 | Backup | NUS (Singapore) · KAIST (South Korea) · Saarland University (Germany) | |
 
-**Degree names to apply for:** MS Computer Science · MS Artificial Intelligence · MS Machine Learning. I choose the exact degree by each university's courses and research strength.
+**Degree names to apply for:** MS Computer Science · MS Artificial Intelligence · MS Machine Learning.
 **Funding:** I apply to fully funded options and scholarships. **No one can promise admission.** It depends on grades, research fit, letters and funding.
 
 ### 🏆 My Profile in 2030 Should Say
@@ -836,58 +863,27 @@ gantt
 
 # 🧮 SKILLS AND TOOLS
 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/PyTorch-learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-learning-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
+| Area | Topics |
+|:--|:--|
+| Programming | C, C++, Python, Object-Oriented Programming, Data Structures, Algorithms |
+| Math for AI | Calculus, Linear Algebra, Probability, Statistics, Optimization |
+| AI | Machine Learning, Deep Learning, NLP, Transformers, LLMs, RAG, Information Retrieval |
+| Engineering | Git, Linux, SQL, testing, APIs, cloud deployment |
+| Security | Passwords, encryption, hashing, secure design (CS50 Cybersecurity) |
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
-
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-
-
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-
-
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-
-
-*All skills are marked "learning" because I am at the start of my degree.*
+*Tools marked "learning" are skills I am still building.*
 
 ### Learning Order (one stage at a time)
 
@@ -912,11 +908,11 @@ gantt
 | Sem 7 | Neural networks, backpropagation, attention |
 | Sem 8 | Math needed for my final-year project |
 
-**Learning cycle:** understand simply → worked examples → solve alone → record errors in a notebook → revisit after a few days. The goal is mastery, not finishing video playlists.
+**Learning cycle:** understand simply → worked examples → solve alone → record errors → revisit after a few days. The goal is mastery, not finishing video playlists.
 
 ### 🔗 Learning Links
 
-[learncpp.com](https://www.learncpp.com/) · [Harvard CS50P](https://cs50.harvard.edu/python/) · [Hugging Face Learn](https://huggingface.co/learn) · [Kaggle Learn](https://www.kaggle.com/learn) · [ACL Anthology](https://aclanthology.org/) · [arXiv cs.CL](https://arxiv.org/list/cs.CL/recent) · [Papers with Code](https://paperswithcode.com/)
+[learncpp.com](https://www.learncpp.com/) · [Harvard CS50](https://cs50.harvard.edu/) · [Hugging Face Learn](https://huggingface.co/learn) · [Kaggle Learn](https://www.kaggle.com/learn) · [ACL Anthology](https://aclanthology.org/) · [arXiv cs.CL](https://arxiv.org/list/cs.CL/recent) · [Papers with Code](https://paperswithcode.com/)
 
 ---
 
@@ -952,7 +948,7 @@ gantt
 
 I welcome advice from researchers, students and engineers, especially in Urdu NLP, multilingual AI and trustworthy RAG. If you supervise undergraduate researchers, I would be grateful to hear from you.
 
-📧 **salikhussain71@gmail.com**
+📧 **salikhussain71@gmail.com** · 💼 [LinkedIn](https://linkedin.com/in/salik-hussain-7822a1388) · 🌐 [Portfolio](https://salikhussain71-code.github.io) · 🔬 [ORCID](https://orcid.org/0009-0002-2163-1728)
 
 <div align="center">
 
