@@ -1,851 +1,735 @@
-Salik Hussain | AI Research, Urdu NLP & Trustworthy AI
+<div align="center">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:164e63,100:0891b2&height=230&section=header&text=SALIK%20HUSSAIN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Multilingual%20AI%20%7C%20Research%20Engineering&descSize=16&descAlignY=61" width="100%" alt="Salik Hussain profile banner"/>BS Computer Science Student · Iqra University Islamabad · Fall 2026–2030
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=SALIK%20HUSSAIN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Student%20%7C%20Urdu%20NLP%20%7C%20Trustworthy%20RAG&descSize=20&descAlignY=64&descColor=00D4FF" width="100%"/>
 
-Building reliable AI systems for Urdu, Roman Urdu, and multilingual public information.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=BS+Computer+Science+%40+Iqra+University+Islamabad;Research+focus%3A+Urdu+and+Roman+Urdu+AI;5+Projects+%7C+3+Papers+%7C+3+Products+%7C+3+Internships;Goal%3A+Fully+funded+MS+in+AI+abroad" alt="Typing animation"/>
+</a>
 
-"GitHub" (https://github.com/salikhussain71-code) · "LinkedIn" (https://www.linkedin.com/in/salik-hussain-7822a1388) · "Kaggle" (https://www.kaggle.com/salikhussain) · "X" (https://x.com/salikhussain71) · "Portfolio" (https://salik.dev)
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Urdu%20NLP-0e7490?style=for-the-badge" alt="Urdu NLP"/>
-<img src="https://img.shields.io/badge/Focus-LLM%20Evaluation-334155?style=for-the-badge" alt="LLM evaluation"/>
-<img src="https://img.shields.io/badge/Focus-RAG%20Systems-166534?style=for-the-badge" alt="RAG systems"/>
-<img src="https://img.shields.io/badge/Location-Pakistan-166534?style=for-the-badge" alt="Pakistan"/></div>---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
-1. About Me
+<br/>
 
-I am a Computer Science undergraduate at Iqra University Islamabad, Pakistan, beginning my BSCS degree in Fall 2026.
+<img src="https://komarev.com/ghpvc/?username=salikhussain71-code&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/salikhussain71-code?style=for-the-badge&color=007ACC&logo=github&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-Research%20Mentorship-28A745?style=for-the-badge" alt="Open to mentorship"/>
 
-My long-term goal is to become an AI researcher and engineer working on multilingual language models, trustworthy AI systems, and machine learning for languages that receive limited attention in modern AI research.
+<br/><br/>
 
-My main research interest is the Urdu language ecosystem, including Urdu script, Roman Urdu, Urdu-English code-switching, and, in later work, Pashto.
+[
 
-I am interested in a practical but research-driven question:
+![Email](https://img.shields.io/badge/Gmail-salikhussain71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-How can we build AI systems that understand different language forms, retrieve reliable evidence, produce accurate answers, and clearly identify what they do not know?
+](mailto:salikhussain71@gmail.com)
+[
 
-My work connects four areas:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Salik%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-- Research: multilingual NLP, information retrieval, model evaluation, and reproducible experiments.
-- Engineering: Python, data pipelines, retrieval systems, APIs, testing, and deployment.
-- Open source: public code, documented experiments, useful datasets, and reproducible results.
-- Real-world impact: making reliable public and institutional information easier to access.
+](https://linkedin.com/in/salik-hussain-7822a1388)
+[
 
-I aim to build these skills throughout my undergraduate degree and prepare for competitive, fully funded graduate research opportunities.
+![GitHub](https://img.shields.io/badge/GitHub-salikhussain71--code-181717?style=for-the-badge&logo=github&logoColor=white)
 
-2. Research Interests
+](https://github.com/salikhussain71-code)
+[
 
-Area| Research direction
-Low-resource NLP| Better language technology for Urdu and other underrepresented languages
-Multilingual AI| Cross-lingual transfer and language representation
-Roman Urdu| Script variation, transliteration, and spelling robustness
-Code-switching| Urdu-English mixed-language understanding
-Information retrieval| Sparse, dense, hybrid, and reranking methods
-Retrieval-Augmented Generation| Evidence-grounded answers with traceable sources
-LLM evaluation| Factuality, citation correctness, robustness, and abstention
-AI reliability| Testing models, detecting failures, and measuring regressions
-Document intelligence| Extracting information and detecting changes in official documents
-Responsible AI| Privacy, data permissions, transparency, and careful evaluation
+![Kaggle](https://img.shields.io/badge/Kaggle-salikhussain-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-My research direction is deliberately focused. I want to investigate related problems deeply rather than create many disconnected projects.
+](https://kaggle.com/salikhussain)
+[
 
----
+![X](https://img.shields.io/badge/X-@salikhussain71-000000?style=for-the-badge&logo=x&logoColor=white)
 
-3. Current Work and Verified Progress
+](https://x.com/salikhussain71)
 
-PAKGOV-RAG — Existing Project Foundation
 
-My existing PAKGOV-RAG project is the starting point for my research roadmap.
 
-It explores bilingual retrieval-augmented generation for Pakistani government and public-information documents.
+![Location](https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-FF6B35?style=flat-square)
 
-The documented project work includes:
 
-- Six official PDF documents.
-- A corpus of 2,111 source pages.
-- 6,711 text chunks.
-- A 50-question evaluation set covering English, Urdu, and mixed-language queries.
-- Sparse retrieval using BM25.
-- Dense retrieval using multilingual embeddings.
-- Hybrid retrieval using reciprocal rank fusion.
-- Retrieval metrics, including Recall@k, MRR, and nDCG.
-- Source-grounded answer assessment and documented failure analysis.
-- A Streamlit demonstration.
+[
 
-The existing evaluation reported the following results:
+![University](https://img.shields.io/badge/University-Iqra%20Islamabad%20(H--9)
 
-Retrieval method| Recall@5| Recall@10| MRR| nDCG@10
-BM25| 0.360| 0.580| 0.640| 0.680
-Dense retrieval| 0.440| 0.600| 0.620| 0.740
-Hybrid retrieval| 0.500| 0.660| 0.740| 0.820
+-8A2BE2?style=flat-square)](https://www.iqra.edu.pk/isl/)
 
-The hybrid method performed best on these reported retrieval measures in the existing 50-question evaluation.
 
-These results are preliminary and limited to the documented corpus and test set. They do not establish performance on all Pakistani government documents or all Urdu queries.
+![Degree](https://img.shields.io/badge/Degree-BS%20Computer%20Science-1E90FF?style=flat-square)
 
-The existing answer assessment recorded 37 cited answers and 13 cases marked insufficient, out of 50 questions. Citation presence alone does not establish that every answer is factually correct or fully supported.
 
-Next step: expand the evaluation carefully, strengthen the evidence checks, add more diverse test cases, and compare methods under controlled conditions.
 
-Repository: "PAKGOV-RAG Project" (https://github.com/salikhussain71-code/PAKGOV-RAG-project)
+
+![Started](https://img.shields.io/badge/Started-October%202026-28A745?style=flat-square)
+
+
+
+
+![CGPA Target](https://img.shields.io/badge/CGPA%20Target-3.7%2B-FFD700?style=flat-square)
+
+
+
+</div>
 
 ---
 
-4. Five Flagship Research Projects
+## 👋 About Me
 
-These are five connected projects planned for development during my BSCS degree. Their research claims and results will be reported only after the corresponding work has been completed and evaluated.
+Hello, I am **Salik Hussain**, a Computer Science student from Rawalpindi, Pakistan.
 
-Project 1 — Urdu-RomanX
+I started my **BS Computer Science at [Iqra University Islamabad](https://www.iqra.edu.pk/isl/) in October 2026**. My school background is Pre-Medical (F.Sc. PCB). I moved to Computer Science because I want to build and research **Artificial Intelligence**.
 
-Full title: Robust Representation Learning Across Urdu, Roman Urdu, and Urdu-English Code-Switched Text.
+My research question in one line:
 
-Research question: How much does AI performance change when the same meaning is expressed in Urdu script, Roman Urdu, or mixed Urdu-English text?
+> **Can AI give correct, trusted answers in Urdu, Roman Urdu and Urdu-English mixed text?**
 
-Work plan
-
-- Establish baseline results using existing multilingual models.
-- Study differences in tokenization and spelling variation.
-- Evaluate classification, semantic similarity, and retrieval.
-- Test transliteration and cross-script transfer methods.
-- Investigate parameter-efficient fine-tuning when justified.
-- Analyze which language forms cause the largest performance gaps.
-
-Planned outputs
-
-- Reproducible experiments.
-- A carefully documented evaluation dataset.
-- Baseline comparisons.
-- An evaluation toolkit.
-- A technical report and, if the results justify it, a research paper.
-
-Skills to develop: Python, PyTorch, Transformers, linear algebra, probability, statistics, and experimental design.
-
-Target period: Years 1–2.
-
-Project 2 — UrduQA-Reason
-
-Full title: Evidence-Grounded Multi-Hop and Unanswerable Question Answering for Urdu and Urdu-English Public Information.
-
-Research question: Can an AI system answer complex questions using verifiable evidence, and can it recognize when the available documents do not contain enough information?
-
-Work plan
-
-- Create questions that require one or more pieces of evidence.
-- Include answerable and unanswerable questions.
-- Include questions requiring comparison across documents.
-- Test English, Urdu, Roman Urdu, and mixed-language queries where appropriate.
-- Compare retrieval, reranking, and answer-generation methods.
-- Verify whether cited passages actually support each answer.
-
-Evaluation measures
-
-Recall@5, Recall@10, MRR, nDCG, exact match where appropriate, answer F1, evidence recall, citation correctness, and unsupported-claim rate.
-
-Planned outputs: evaluation dataset, baseline systems, question-answering pipeline, documentation, and a possible research paper.
-
-Target period: Year 2.
-
-Project 3 — UrduCodeSwitch-Bench
-
-Full title: Reliability, Factuality, Safety, and Robustness Evaluation Across Urdu, Roman Urdu, and Code-Switched Text.
-
-Research question: Do AI systems preserve their accuracy, evidence quality, and safety when users change scripts or mix languages?
-
-Work plan
-
-- Evaluate multiple model families.
-- Compare equivalent questions across language forms.
-- Measure factual consistency and evidence support.
-- Test unanswerable questions and appropriate refusal.
-- Investigate robustness to spelling changes and linguistic variation.
-- Evaluate carefully controlled prompt-injection scenarios.
-- Document failure categories and reproducible test cases.
-
-Planned outputs
-
-- A benchmark with a documented evaluation protocol.
-- Baseline results.
-- A public leaderboard, if feasible.
-- A reproducible evaluation package.
-- A possible research paper.
-
-The benchmark will distinguish measured results from hypotheses. It will not claim that an approach improves safety or reliability until experiments support that conclusion.
-
-Target period: Years 2–3.
-
-Project 4 — UrduIE-KG
-
-Full title: Urdu Information Extraction, Entity Linking, Relation Extraction, and Knowledge-Graph Construction.
-
-Research question: Can structured information be extracted reliably from Urdu documents and connected to identifiable entities and relationships?
-
-Work plan
-
-- Identify entities such as organizations, people, locations, dates, and laws.
-- Develop or evaluate Urdu named-entity recognition.
-- Investigate entity linking and relation extraction.
-- Build a structured representation of verified information.
-- Evaluate extraction errors and entity-matching accuracy.
-- Document uncertainty and source provenance.
-
-Planned outputs: annotated data where permitted, extraction models, evaluation scripts, a knowledge-graph prototype, and technical documentation.
-
-Target period: Year 3.
-
-Project 5 — PAKGOV-RAG-X
-
-Full title: Evidence-Grounded Multilingual Retrieval-Augmented Generation for Pakistani Government, Legal, and Public Information.
-
-Research question: How can retrieval and verification methods make public-information AI systems more accurate, traceable, and robust across Urdu and English?
-
-This project extends my existing PAKGOV-RAG foundation rather than starting a disconnected repository.
-
-Work plan
-
-1. Improve the quality and diversity of the document collection.
-2. Record document titles, source URLs, dates, versions, and page references.
-3. Establish stronger retrieval baselines.
-4. Compare BM25, dense retrieval, hybrid retrieval, and reranking.
-5. Evaluate generation using retrieved evidence.
-6. Implement citation verification and answerability checks.
-7. Test Urdu, English, Roman Urdu, and mixed-language queries as the dataset permits.
-8. Conduct error analysis and publish reproducible evaluation results.
-9. Develop a web application and API after the research pipeline is stable.
-
-Evaluation measures: retrieval recall, MRR, nDCG, answer correctness, evidence support, citation precision, citation recall, unsupported claims, abstention quality, latency, and cost.
-
-Planned outputs: open-source software, evaluation data where licensing permits, a web demonstration, an API, a technical report, and a possible research paper.
-
-Target period: Years 3–4.
+**My promise:** everything on this page is either finished, in progress, or clearly marked **Planned**. I do not claim results I have not earned yet.
 
 ---
 
-5. Three Planned Research Papers
+## 🗺️ My Whole Plan at a Glance
 
-These are research objectives, not claims of accepted or published papers.
+```mermaid
+mindmap
+  root((Salik Hussain))
+    Degree
+      BS CS Iqra
+      4 Years 8 Semesters
+      CGPA 3.7 plus
+    5 Projects
+      Urdu-RomanX
+      UrduQA-Reason
+      UrduCodeSwitch-Bench
+      UrduIE-KG
+      PAKGOV-RAG-X
+    3 Papers
+      Urdu-RomanX
+      UrduCodeSwitch-Bench
+      PAKGOV-RAG-X
+    3 Products
+      AI Reliability Lab
+      GovAI Studio
+      UrduAI Enterprise
+    3 Internships
+      LUMS 2028
+      Abroad 2029
+      Remote Research
+    Final Goal
+      Funded MS in AI
+```
 
-Paper 1 — Urdu-RomanX
+### 🎯 Goals
 
-Proposed title: Robust Representation Learning Across Urdu, Roman Urdu, and Urdu-English Code-Switched Text.
+| Goal | Plan |
+|:--|:--|
+| 🎓 Degree | BS Computer Science, CGPA target 3.7 or higher |
+| 🔬 Research | 3 papers on Urdu NLP and trustworthy RAG |
+| 💻 Projects | 5 flagship projects, finished one by one |
+| 🧪 Experience | 3 research internships |
+| 💼 Products | 3 products built from my research |
+| 🌍 Next step | Fully funded MS in AI around 2030 |
 
-Main contribution sought: A rigorous comparison of model performance across language forms, supported by reproducible experiments and a clear analysis of cross-script weaknesses.
+**Target universities:** [MBZUAI](https://mbzuai.ac.ae/) · [KAUST](https://www.kaust.edu.sa/) · [ETH Zurich](https://ethz.ch/) · [EPFL](https://www.epfl.ch/) · [TU Munich](https://www.tum.de/)
 
-Possible venues: ACL, EMNLP, NAACL, or COLING, depending on the contribution and submission requirements.
-
-Target period: 2028–2029.
-
-Paper 2 — UrduCodeSwitch-Bench
-
-Proposed title: Measuring Reliability, Factuality, and Safety Across Urdu, Roman Urdu, and Urdu-English Code-Switching.
-
-Main contribution sought: A well-designed benchmark that measures how language variation affects model reliability, with clear baselines and detailed failure analysis.
-
-Possible venues: ACL, EMNLP, NAACL, or the NeurIPS Evaluations & Datasets track if the final work fits its scope.
-
-Target period: 2029.
-
-Paper 3 — PAKGOV-RAG-X
-
-Proposed title: Evidence-Grounded Retrieval-Augmented Generation for Urdu and English Public Information.
-
-Main contribution sought: A controlled study of retrieval, reranking, citation verification, and answerability for public-information question answering.
-
-Possible venues: ACL, EMNLP, NAACL, SIGIR, or NeurIPS Evaluations & Datasets, depending on the scientific contribution.
-
-Target period: 2029–2030.
-
-Publication standard: A project does not automatically become a paper. Each submission must provide a clear research question, a review of related work, appropriate baselines, reproducible methods, honest limitations, and results that support its claims.
-
----
-
-6. Three Proposed AI Products
-
-The commercial roadmap will reuse the research rather than duplicate it.
-
-Product 1 — PAKAI Verify
-
-AI Reliability and Evaluation Platform
-
-A tool for developers and research teams to evaluate LLM and RAG applications.
-
-Potential capabilities:
-
-- Retrieval-quality evaluation.
-- Citation verification.
-- Evidence-grounding checks.
-- Multilingual test suites.
-- Regression testing between model versions.
-- Failure reports with examples.
-- Latency and cost measurement.
-
-Research connection: UrduCodeSwitch-Bench and PAKGOV-RAG-X.
-
-Initial version: a local evaluation tool and report generator.
-
-Later versions: a dashboard, API, and team workflow if users demonstrate a need.
-
-Product 2 — GovAI Studio
-
-Evidence-Grounded Document Intelligence
-
-A document assistant for authorized institutional documents.
-
-Potential capabilities:
-
-- Search across documents.
-- Answers with source references.
-- Document summarization.
-- Comparison between document versions.
-- Structured information extraction.
-- Change notifications.
-
-Research connection: PAKGOV-RAG-X and UrduIE-KG.
-
-The product will respect document permissions, privacy, licensing, and applicable terms of use.
-
-Product 3 — UrduAI Enterprise
-
-Multilingual AI Infrastructure
-
-A potential API and software platform for Urdu, Roman Urdu, and Urdu-English workflows.
-
-Possible services:
-
-- Search.
-- Question answering.
-- Text classification.
-- Information extraction.
-- Summarization.
-- RAG.
-- Reliability evaluation.
-
-Research connection: Urdu-RomanX, UrduCodeSwitch-Bench, and PAKGOV-RAG-X.
-
-These products are proposed directions. Commercial demand, pricing, revenue, and customer numbers will not be claimed before they are measured.
+*These are targets, not promises. Admission always depends on the university.*
 
 ---
 
-7. Research Models, Datasets, and Benchmarks
+## 📅 Timeline (2026 to 2030)
 
-The following are planned outputs, subject to research progress and data permissions.
+```mermaid
+gantt
+    title My Journey (Plan)
+    dateFormat YYYY-MM
+    axisFormat %b %Y
+    section Degree
+    Year 1 (Sem 1-2)             :2026-10, 2027-07
+    Year 2 (Sem 3-4)             :2027-10, 2028-07
+    Year 3 (Sem 5-6)             :2028-10, 2029-07
+    Year 4 (Sem 7-8)             :2029-10, 2030-07
+    section Projects
+    PAKGOV-RAG v0 upgrade        :2026-10, 2027-06
+    Urdu-RomanX                  :2027-01, 2027-12
+    UrduQA-Reason                :2027-10, 2028-07
+    UrduCodeSwitch-Bench         :2028-01, 2029-03
+    UrduIE-KG                    :2028-10, 2029-07
+    PAKGOV-RAG-X                 :2028-10, 2030-03
+    section Papers
+    Paper 1 Urdu-RomanX          :2027-10, 2028-08
+    Paper 2 CodeSwitch-Bench     :2028-10, 2029-08
+    Paper 3 PAKGOV-RAG-X         :2029-06, 2030-03
+    section Internships
+    Internship 1 LUMS            :2028-06, 2028-08
+    Internship 3 Remote          :2028-12, 2029-02
+    Internship 2 Abroad          :2029-06, 2029-08
+    section Products
+    AI Reliability Lab           :2028-10, 2029-12
+    GovAI Studio                 :2029-06, 2030-04
+    UrduAI Enterprise            :2029-09, 2030-06
+    section MS Applications
+    Prepare and apply            :2029-08, 2030-01
+```
 
-Planned asset| Purpose| Connected project
-Urdu-Roman representation model| Improve representations across scripts and language forms| Urdu-RomanX
-PAK-RAG reranker| Improve evidence retrieval for public-information queries| PAKGOV-RAG-X
-Reliability evaluator| Identify evidence, citation, and answerability failures| UrduCodeSwitch-Bench
-PAK-AI-Bench| Evaluate multilingual RAG systems| PAKGOV-RAG-X
-PAK-MultiBench| Compare performance across Urdu, Roman Urdu, and English| Urdu-RomanX
-PAK-ReliabilityBench| Test grounding, robustness, and reliability| UrduCodeSwitch-Bench
-Urdu information extraction dataset| Evaluate entities and relationships in Urdu documents| UrduIE-KG
+### 🔗 How Everything Connects
 
-Pashto may be added later if sufficient data, appropriate permissions, and suitable evaluation resources are available.
+```mermaid
+flowchart LR
+    A[Strong Grades<br/>C++ Python Math] --> B[Urdu-RomanX]
+    B --> C[UrduQA-Reason]
+    C --> D[UrduCodeSwitch-Bench]
+    D --> E[UrduIE-KG]
+    E --> F[PAKGOV-RAG-X]
+    B --> P1[Paper 1]
+    D --> P2[Paper 2]
+    F --> P3[Paper 3]
+    D --> S1[AI Reliability Lab]
+    F --> S2[GovAI Studio]
+    B --> S3[UrduAI Enterprise]
+    P1 --> M[Elite MS Application]
+    P2 --> M
+    P3 --> M
+    S1 --> M
+```
 
-I will not release datasets or model weights unless the relevant source licences and release conditions permit it.
+### 📊 My Degree Structure (130 credit hours)
 
----
+```mermaid
+pie showData
+    title Credit Hours by Category
+    "General Education" : 34
+    "CS Core" : 48
+    "Specialization Electives" : 24
+    "Allied / IDS (Math)" : 12
+    "Final Year Project" : 6
+    "Internship" : 3
+    "Professional Certification" : 3
+```
 
-8. Technology Stack
-
-The tools below form a learning and implementation roadmap. They are not all claims of current expertise.
-
-Area| Tools to learn and use
-Programming| Python, C++, SQL, Bash
-Version control| Git, GitHub
-Development| VS Code, Linux, virtual environments
-Data processing| pandas, NumPy, PDF extraction tools
-Machine learning| scikit-learn, PyTorch
-NLP| Hugging Face Transformers, tokenizers
-Information retrieval| BM25, vector search, FAISS
-RAG| Hybrid retrieval, reranking, evidence evaluation
-APIs| FastAPI
-Applications| Streamlit; TypeScript where needed
-Storage| SQLite or PostgreSQL, with vector storage when justified
-Testing| pytest, data validation, regression tests
-Research| Jupyter, LaTeX, experiment tracking
-Deployment| GitHub Actions, Docker, and suitable hosting
-
-Learning order
-
-1. Programming fundamentals and problem solving.
-2. Data structures and algorithms.
-3. Mathematics for machine learning.
-4. Python, NumPy, pandas, and data analysis.
-5. Probability, statistics, and linear algebra.
-6. Classical machine learning.
-7. Deep learning and PyTorch.
-8. NLP and transformer models.
-9. Information retrieval and RAG.
-10. Research methodology, reproducibility, and evaluation.
-11. Deployment, APIs, and software engineering.
-12. Advanced multilingual research.
-
----
-
-9. Official BS Computer Science Curriculum
-
-University: Iqra University Islamabad Campus
-Degree: Bachelor of Science in Computer Science
-Expected study period: 2026–2030
-Curriculum basis: The BSCS curriculum supplied from the university website.
-
-The university's supplied curriculum lists 130 credit hours for the standard BSCS route and 136 credit hours for the pre-medical route, including the additional mathematics-deficiency requirement.
-
-The semester sequence below preserves the course titles, course codes, prerequisites, and structure provided in that curriculum. University decisions about course offerings, pools, and prerequisites take priority.
-
-Semester 1 — Foundation
-
-Course| Code| Credit hours
-Programming Fundamentals| CMC111| 3+0
-Programming Fundamentals Lab| CMC111-L| 0+1
-Application of ICT| GER111| 2+0
-Application of ICT Lab| GER111-L| 0+1
-Functional English| GER121| 3+0
-IDS-I: Calculus & Analytic Geometry| IDS111| 3+0
-Natural Science| GERxxx| 2+0
-Natural Science Lab| GERxxx-L| 0+1
-
-Research and career additions
-
-- Build a consistent programming practice routine.
-- Learn Git and GitHub fundamentals.
-- Strengthen algebra, functions, and precalculus.
-- Understand basic command-line use.
-- Maintain clear notes and a record of coursework.
-- Read the existing PAKGOV-RAG code and documentation.
-- Prioritize grades and understanding over starting several new projects.
-
-Primary goal: strong fundamentals and a strong first-semester CGPA.
-
-Semester 2 — Programming and Mathematics
-
-Course| Code| Credit hours
-Arts & Humanities| GERxxx| 2+0
-Object-Oriented Programming| CMC112| 3+0
-Object-Oriented Programming Lab| CMC112-L| 0+1
-Digital Logic Design| CMC121| 3+0
-Digital Logic Design Lab| CMC121-L| 0+1
-IDS-II: Linear Algebra| IDS112| 3+0
-Quantitative Reasoning-I| GERxxx| 3+0
-Pakistan Studies| GER241| 2+0
-Understanding of the Holy Quran-I| GEN111| 0+1
-
-Research and career additions
-
-- Improve C++ and object-oriented programming.
-- Learn Python if the semester workload permits.
-- Practise vectors, matrices, and linear transformations.
-- Complete small, tested programming projects.
-- Study the fundamentals of text processing.
-- Begin reading introductory NLP papers.
-
-Primary goal: programming competence and mathematical foundations.
-
-Semester 3 — Data and Algorithms
-
-Course| Code| Credit hours
-Quantitative Reasoning-II| GERxxx| 3+0
-Database Systems| CMC331| 3+0
-Database Systems Lab| CMC331-L| 0+1
-Data Structures| CMC251| 3+0
-Data Structures Lab| CMC251-L| 0+1
-Social Science| GERxxx| 2+0
-Computer Networks| CMC262| 2+0
-Computer Networks Lab| CMC262-L| 0+1
-Understanding of the Holy Quran-II| GEN112| 0+1
-Expository Writing| GER122| 3+0
-
-Research and career additions
-
-- Learn Python data analysis.
-- Study probability and statistics.
-- Learn SQL and database design.
-- Implement basic search and ranking algorithms.
-- Start Urdu-RomanX with a narrowly defined research question.
-- Reproduce one manageable experiment from an existing paper.
-
-Primary goal: turn programming skills into measurable technical work.
-
-Semester 4 — Systems and Algorithmic Thinking
-
-Course| Code| Credit hours
-Civics and Community Engagement| GER443| 2+0
-Islamic Studies| GER141| 2+0
-Entrepreneurship| GER464| 2+0
-Operating Systems| CMC241| 3+0
-Operating Systems Lab| CMC241-L| 0+1
-Design & Analysis of Algorithms| CMC254| 3+0
-Ideology & Constitution of Pakistan| GER142| 2+0
-Software Engineering| CMC371| 3+0
-
-Research and career additions
-
-- Study classical machine learning.
-- Practise algorithm analysis and complexity.
-- Learn PyTorch fundamentals.
-- Develop an experimental pipeline with fixed datasets and documented settings.
-- Review related Urdu NLP and QA research.
-- Contact relevant faculty about supervised undergraduate research when eligible.
-
-Primary goal: build the ability to understand and evaluate algorithms, not just use libraries.
-
-Semester 5 — Artificial Intelligence and Security
-
-Course| Code| Credit hours
-Computer Organization & Architecture| CMC224| 2+0
-Computer Organization & Architecture Lab| CMC224-L| 0+1
-Information Security| CMC363| 2+0
-Information Security Lab| CMC363-L| 0+1
-Theory of Automata| CSC341| 3+0
-Artificial Intelligence| CMC383| 2+0
-Artificial Intelligence Lab| CMC383-L| 0+1
-IDS-III| IDSxxx| 3+0
-IDS-IV| IDSxxx| 3+0
-
-Research and career additions
-
-- Study deep learning and transformers.
-- Develop Urdu-RomanX or UrduQA-Reason experiments.
-- Learn experiment tracking and rigorous error analysis.
-- Investigate research internships and faculty-supervised work.
-- Prepare a research CV and a concise technical portfolio.
-- Consider submitting a paper only when the results are mature enough.
-
-Primary goal: move from tutorial-based development to controlled experiments.
-
-Semester 6 — Advanced Engineering and Specialization
-
-Course| Code| Credit hours
-Cloud Computing| CMC355| 3+0
-Elective I| University-assigned| 3+0
-Elective II| University-assigned| 3+0
-Elective III| University-assigned| 3+0
-Elective IV| University-assigned| 3+0
-
-Research and career additions
-
-- Select electives relevant to AI, ML, NLP, data science, or related foundations when offered.
-- Extend multilingual evaluation.
-- Improve retrieval, reranking, and citation verification.
-- Apply for suitable research internships or supervised projects.
-- Develop a reliable software release and documentation process.
-
-Primary goal: demonstrate depth in a defined research direction.
-
-Semester 7 — Research and Internship
-
-Course| Code| Credit hours
-Elective V| University-assigned| 3+0
-Elective VI| University-assigned| 3+0
-Elective VII| University-assigned| 3+0
-Field Experience / Internship| CMC493| 3+0
-Final Year Design Project I| CMC491| 0+3
-
-Research and career additions
-
-- Complete an approved internship or field experience.
-- Begin the final-year project under an appropriate supervisor.
-- Consolidate the strongest benchmark and research findings.
-- Prepare a research manuscript if the work supports a meaningful contribution.
-- Seek detailed feedback from research mentors.
-- Prepare a graduate-school shortlist based on published eligibility and funding policies.
-
-Primary goal: demonstrate research independence and engineering reliability.
-
-Semester 8 — Research Completion
-
-Course| Code| Credit hours
-Final Year Design Project II| CMC492| 0+3
-Elective VIII| University-assigned| 3+0
-Professional Certification| CMC494| 3+0
-
-Research and career additions
-
-- Complete and defend the final-year project.
-- Release clean documentation and reproducible code where appropriate.
-- Submit research to suitable venues when justified.
-- Prepare recommendation requests well before application deadlines.
-- Complete official graduate-school applications.
-- Present a portfolio that distinguishes completed work from future plans.
-
-Primary goal: graduate with strong fundamentals, evidence of research ability, and a credible record of technical contributions.
-
-Mathematics deficiency for pre-medical students
-
-The supplied university curriculum lists an additional six-credit mathematics-deficiency block for the pre-medical route. The precise course placement and registration must be confirmed with the university.
-
-My additional preparation plan is to strengthen:
-
-1. Algebra and functions.
-2. Trigonometry and precalculus.
-3. Calculus.
-4. Vectors and matrices.
-5. Linear algebra.
-6. Probability and statistics.
-7. Discrete mathematics.
-8. Optimization.
-9. Mathematics used in machine learning.
-
-These are supplementary learning priorities, not replacements for official degree requirements.
+*Pre-Medical students take 136 credit hours (47 courses) because of 2 extra Mathematics deficiency courses (6 credits). Source: [Iqra University Prospectus 2026-27](https://www.iqra.edu.pk/isl/).*
 
 ---
 
-10. Four-Year Research and Career Roadmap
+# 🎓 YEAR-BY-YEAR PLAN
+
+The course lists below are the official Iqra BS CS courses and are **unchanged**. For each year I added what I will build, write and apply for.
+
+---
+
+## 📘 YEAR 1 (2026 to 2027): Strong Foundation
+
+
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-28A745?style=for-the-badge)
+
+ 
+
+![Semesters](https://img.shields.io/badge/Semesters-1%20and%202-1E90FF?style=for-the-badge)
+
+
+
+**Year goal:** Get A grades. Learn to code well. Learn the math for AI. Start my first research project.
+
+### Semester 1 (Fall 2026, started October 2026)
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| CMC111 | Programming Fundamentals | 3+0 |
+| CMC111-L | Programming Fundamentals (Lab) | 0+1 |
+| GER111 | Application of ICT | 2+0 |
+| GER111-L | Application of ICT (Lab) | 0+1 |
+| GER121 | Functional English | 3+0 |
+| IDS111 | IDS-I (Calculus & Analytic Geometry) | 3+0 |
+| GERxxx | Natural Science* | 2+0 |
+| GERxxx-L | Natural Science (Lab) | 0+1 |
+
+**📚 What I will study in Semester 1**
+
+| Subject | My study topics |
+|:--|:--|
+| **Programming Fundamentals (C++)** | Variables and data types, input/output, if/else, loops, functions, arrays, strings, pointers, structures, file handling, debugging, problem solving |
+| **Calculus & Analytic Geometry** | Functions, limits, derivatives, integrals, applications, lines, circles and conics |
+| **Application of ICT** | Office tools, internet safety, basic networks, how computers work |
+| **Functional English** | Grammar, reading, clear writing, speaking, presentations |
+| **Natural Science** | Chosen from the university pool, with lab work |
+
+**🎯 Year 1 build list**
+
+- [ ] Finish Semester 1 with strong grades in C++ and Calculus
+- [ ] Learn Git and Linux basics (daily small commits)
+- [ ] Review **PAKGOV-RAG Version 0** and list what to improve
+- [ ] Learn Python for data work
+
+### Semester 2
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| GERxxx | Arts & Humanities* | 2+0 |
+| CMC112 | Object-Oriented Programming | 3+0 |
+| CMC112-L | Object-Oriented Programming (Lab) | 0+1 |
+| CMC121 | Digital Logic Design | 3+0 |
+| CMC121-L | Digital Logic Design (Lab) | 0+1 |
+| IDS112 | IDS-II (Linear Algebra) | 3+0 |
+| GERxxx | Quantitative Reasoning-I* | 3+0 |
+| GER241 | Pakistan Studies | 2+0 |
+| GEN111 | Understanding of the Holy Quran-I* | 0+1 |
+
+**🎯 Sem 2 focus:** Study Linear Algebra carefully (it is the base of AI). **Start Project 1: Urdu-RomanX** (collect data, run first baseline tests).
+
+### 📦 Year 1 Output
+
+| Type | Item | Status |
+|:--|:--|:-:|
+| Project | PAKGOV-RAG v0 upgrade | 🟡 Planned |
+| Project | Urdu-RomanX (start) | 🟡 Planned |
+| Skills | C++, Python, Git, Linux, Calculus, Linear Algebra | 🟢 Learning |
+
+---
+
+## 📗 YEAR 2 (2027 to 2028): First Real Research
+
+
+
+![Status](https://img.shields.io/badge/Status-Planned-FFD700?style=for-the-badge)
+
+ 
+
+![Semesters](https://img.shields.io/badge/Semesters-3%20and%204-1E90FF?style=for-the-badge)
+
+
+
+**Year goal:** Finish Project 1, build Project 2, write Paper 1, and get my first research supervisor.
+
+### Semester 3
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| GERxxx | Quantitative Reasoning-II* | 3+0 |
+| CMC331 | Database Systems | 3+0 |
+| CMC331-L | Database Systems (Lab) | 0+1 |
+| CMC251 | Data Structures | 3+0 |
+| CMC251-L | Data Structures (Lab) | 0+1 |
+| GERxxx | Social Science* | 2+0 |
+| CMC262 | Computer Networks | 2+0 |
+| CMC262-L | Computer Networks (Lab) | 0+1 |
+| GEN112 | Understanding of the Holy Quran-II* | 0+1 |
+| GER122 | Expository Writing | 3+0 |
+
+**🎯 Sem 3 focus:** Use Databases and Data Structures inside my projects. Continue Urdu-RomanX experiments. Start planning **UrduQA-Reason**. Use Expository Writing to practice research writing.
+
+### Semester 4
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| GER443 | Civics and Community Engagement | 2+0 |
+| GER141 | Islamic Studies | 2+0 |
+| GER464 | Entrepreneurship | 2+0 |
+| CMC241 | Operating Systems | 3+0 |
+| CMC241-L | Operating Systems (Lab) | 0+1 |
+| CMC254 | Design & Analysis of Algorithms | 3+0 |
+| GER142 | Ideology & Constitution of Pakistan | 2+0 |
+| CMC371 | Software Engineering | 3+0 |
+
+**🎯 Sem 4 focus:** Finish Urdu-RomanX and write **Paper 1**. Build UrduQA-Reason. Use Software Engineering for clean, tested code. Use Entrepreneurship to plan my first product idea. Email the LUMS supervisor with my GitHub link, my results and a one-page plan.
+
+### 🧪 Internship 1: Summer 2028
+
+**[LUMS](https://lums.edu.pk/), on-site research.** Host: Dr. Agha Ali Raza (Urdu NLP). Backup: [NUST SEECS](https://seecs.nust.edu.pk/) or NUST NCAI.
+*Also see: [LUMS Summer Research Programme](https://or.lums.edu.pk/node/9688) · [LUMS Students as Co-Researchers](https://lli.lums.edu.pk/students-co-researchers).*
+**Aim:** my first real research supervision and my first recommendation letter. This is a request, not a confirmed vacancy.
+
+### 📦 Year 2 Output
+
+| Type | Item | Status |
+|:--|:--|:-:|
+| Project | Urdu-RomanX (finish) | 🟡 Planned |
+| Project | UrduQA-Reason | 🟡 Planned |
+| Paper | Paper 1: Urdu-RomanX | 🟡 Planned |
+| App | Urdu-RomanX web demo | 🟡 Planned |
+| Dataset | Urdu-RomanX dataset | 🟡 Planned |
+| Internship | LUMS research (summer 2028) | 🟡 Planned |
+
+---
+
+## 📙 YEAR 3 (2028 to 2029): Elite Research
+
+
+
+![Status](https://img.shields.io/badge/Status-Planned-FFD700?style=for-the-badge)
+
+ 
+
+![Semesters](https://img.shields.io/badge/Semesters-5%20and%206-1E90FF?style=for-the-badge)
+
+
+
+**Year goal:** Build the benchmark, finish Paper 2, win a funded abroad research place, and start my first product.
+
+### Semester 5
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| CMC224 | Computer Org. & Architecture | 2+0 |
+| CMC224-L | Computer Org. & Architecture (Lab) | 0+1 |
+| CMC363 | Information Security | 2+0 |
+| CMC363-L | Information Security (Lab) | 0+1 |
+| CSC341 | Theory of Automata | 3+0 |
+| CMC383 | Artificial Intelligence | 2+0 |
+| CMC383-L | Artificial Intelligence (Lab) | 0+1 |
+| IDSxxx | IDS-III* | 3+0 |
+| IDSxxx | IDS-IV* | 3+0 |
+
+**🎯 Sem 5 focus:** Start **UrduCodeSwitch-Bench** with the AI course as support. Information Security helps with the safety-testing part. **Apply in autumn 2028** to the abroad programs below.
+
+### Semester 6
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| CMC355 | Cloud Computing | 3+0 |
+| XXXXXX | Elective-I** | 3+0 |
+| XXXXXX | Elective-II** | 3+0 |
+| XXXXXX | Elective-III** | 3+0 |
+| XXXXXX | Elective-IV** | 3+0 |
+
+**🎯 Sem 6 focus:** Choose AI-related electives (for example NLP, Machine Learning, Deep Learning). Use Cloud Computing to deploy my demos. Build **UrduIE-KG**. Finish **Paper 2**. Start the first version of **AI Reliability Lab**.
+
+### 🧪 Internship 3: Winter Break 2028 (Remote Research)
+
+Options: a remote collaboration with an Urdu NLP group, or [Cohere Labs Scholars](https://cohere.com/research). **Aim:** a co-authored paper.
+
+### 🧪 Internship 2: Summer 2029 (Funded, Abroad)
+
+Apply in **autumn 2028**. Apply to all, because competition is tough:
+
+| Program | Link |
+|:--|:--|
+| KAUST Visiting Student Research Program | [admissions.kaust.edu.sa](https://admissions.kaust.edu.sa/study/internships) |
+| MBZUAI Global Research Internship Program | [mbzuai.ac.ae](https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program) |
+| ETH Zurich Summer Research Fellowship | [ethz.ch](https://ethz.ch/) |
+| EPFL Summer in the Lab | [epfl.ch](https://www.epfl.ch/) |
+
+**Aim:** a recommendation letter from a professor connected to my target universities. This is the most valuable item for my MS applications. *I will check each program's official page for dates and eligibility (for example, MBZUAI states a minimum CGPA). I have not confirmed the 2028-29 cycle.*
+
+### 📦 Year 3 Output
+
+| Type | Item | Status |
+|:--|:--|:-:|
+| Project | UrduCodeSwitch-Bench | 🟡 Planned |
+| Project | UrduIE-KG | 🟡 Planned |
+| Paper | Paper 2: UrduCodeSwitch-Bench | 🟡 Planned |
+| App | UrduCodeSwitch-Bench Leaderboard | 🟡 Planned |
+| App | UrduIE-KG web interface + API | 🟡 Planned |
+| Product | AI Reliability Lab v1 | 🟡 Planned |
+| Internships | Remote research + funded abroad | 🟡 Planned |
+
+---
+
+## 📕 YEAR 4 (2029 to 2030): Flagship, Products, MS Applications
+
+
+
+![Status](https://img.shields.io/badge/Status-Planned-FFD700?style=for-the-badge)
+
+ 
+
+![Semesters](https://img.shields.io/badge/Semesters-7%20and%208-1E90FF?style=for-the-badge)
+
+
+
+**Year goal:** Finish the flagship project, write Paper 3, launch my products, and apply for MS.
+
+### Semester 7
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| XXXXXX | Elective-V** | 3+0 |
+| XXXXXX | Elective-VI** | 3+0 |
+| XXXXXX | Elective-VII** | 3+0 |
+| CMC493 | Field Experience / Internship*** | 3+0 |
+| CMC491 | Final Year Design Project (FYDP)-I | 0+3 |
+
+**🎯 Sem 7 focus:** Use my research internship for CMC493 if Iqra approves it (the program allows on-site, remote, university-assigned and bootcamp options). Make **PAKGOV-RAG-X** my Final Year Project. Prepare **MS applications**.
+
+### Semester 8
+
+| Code | Course | Credits |
+|:--|:--|:-:|
+| CMC492 | Final Year Design Project (FYDP)-II | 0+3 |
+| XXXXXX | Elective VIII** | 3+0 |
+| CMC494 | Professional Certification*** | 3+0 |
+
+**🎯 Sem 8 focus:** Finish the FYP and **Paper 3**. Release the final open-source code. Launch the first versions of **GovAI Studio** and **UrduAI Enterprise**. Complete the MS application process.
+
+<sub>*Chosen from the university pools. **Offered from the electives of my chosen stream. ***Can be done any time in the degree, preferably after Semester 5, and cannot be replaced by other coursework.</sub>
+
+### 📦 Year 4 Output
+
+| Type | Item | Status |
+|:--|:--|:-:|
+| Project | PAKGOV-RAG-X (flagship) | 🟡 Planned |
+| Paper | Paper 3: PAKGOV-RAG-X | 🟡 Planned |
+| App | PAKGOV-RAG-X web app + evaluation dashboard | 🟡 Planned |
+| Product | GovAI Studio | 🟡 Planned |
+| Product | UrduAI Enterprise | 🟡 Planned |
+| Goal | MS applications | 🟡 Planned |
+
+---
+
+# 🔬 THE 5 FLAGSHIP PROJECTS
+
+| # | Project | Question it answers | Year |
+|:-:|:--|:--|:-:|
+| 1 | **Urdu-RomanX** | Do models understand Urdu, Roman Urdu and Urdu-English equally well? | 1 to 2 |
+| 2 | **UrduQA-Reason** | Can AI answer with evidence, multi-step reasoning and "no answer" cases? | 2 |
+| 3 | **UrduCodeSwitch-Bench** | How reliable and safe is AI across language forms? | 2 to 3 |
+| 4 | **UrduIE-KG** | Can we extract people, places, laws and relations from Urdu text? | 3 |
+| 5 | **PAKGOV-RAG-X** ⭐ | Can AI answer Pakistani government questions with real sources? | 3 to 4 |
+
+### ⭐ Flagship: PAKGOV-RAG-X
+
+My earlier PAKGOV-RAG is **Version 0 (pilot)**. I upgrade it step by step.
+
+```mermaid
+flowchart LR
+    A[Official documents] --> B[Cleaning and chunking]
+    B --> C[BM25 search]
+    B --> D[Dense search]
+    C --> E[Hybrid retrieval]
+    D --> E
+    E --> F[Reranker]
+    F --> G[LLM answer]
+    G --> H[Citation check]
+    H --> I[Answer with sources]
+```
+
+**Measured with:** Recall@5, Recall@10, MRR, nDCG, answer correctness, groundedness, citation precision and recall, unsupported claims, hallucination, abstention, speed and cost.
 
 <details>
-<summary><strong>Year 1 — 2026–2027: Foundations</strong></summary>Main priorities
+<summary><b>1. Urdu-RomanX</b></summary>
 
-- Maintain strong academic performance.
-- Learn C++, Python, Git, and Linux.
-- Strengthen mathematics for computer science.
-- Improve the existing PAKGOV-RAG project.
-- Begin a small, testable Urdu-RomanX experiment.
-- Read research papers with guidance.
-- Learn how to document experiments and technical limitations.
+- **Full name:** Robust Representation Learning for Urdu, Roman Urdu and Urdu-English Code-Switched Text
+- **Study:** tokenization, transliteration, continued pretraining, PEFT, cross-script transfer
+- **Tasks:** classification, NER, sentiment, similarity, retrieval, QA
+- **Compare first:** mBERT, XLM-R and existing Urdu models
+- **Outputs:** dataset, model (only if experiments justify it), benchmark, evaluation suite, GitHub, Hugging Face, web demo, paper
+- **Languages and tools:** Python, SQL, Bash, C++, later TypeScript/JavaScript
+- **Math:** linear algebra, probability, statistics, calculus, optimization
+</details>
 
-Deliverables
+<details>
+<summary><b>2. UrduQA-Reason</b></summary>
 
-- Consistent programming practice.
-- Well-documented repositories.
-- Reproducible baseline experiments.
-- Strong semester results.
-- A clear research notebook.
+- **Full name:** Evidence-Grounded, Multi-Hop and Unanswerable Question Answering for Urdu and Urdu-English Public Information
+- **Why different:** Urdu QA work already exists (for example UQA, LREC-COLING 2024). Mine adds multi-hop, comparison, unanswerable and conflicting-evidence questions with citations.
+- **Pipeline:** Question → Retriever → Evidence → Reranker → LLM → Answer → Citation check
+- **Metrics:** Recall@5, Recall@10, MRR, nDCG, EM, F1, evidence recall, citation correctness, unsupported-claim rate
+- **Outputs:** dataset, benchmark, leaderboard, baselines, RAG system, evaluation library, paper
+</details>
 
-Do not start five major projects at once.
+<details>
+<summary><b>3. UrduCodeSwitch-Bench</b></summary>
 
-</details><details>
-<summary><strong>Year 2 — 2027–2028: Research Foundations</strong></summary>Main priorities
+- **Full name:** Reliability, Factuality, Safety and Robustness Evaluation of AI Models Across Urdu, Roman Urdu and Urdu-English Code-Switching
+- **Evaluates:** QA, classification, retrieval, summarization, factuality, hallucination, safety, robustness, consistency
+- **Models:** several model families, not only mine
+- **Outputs:** benchmark, dataset, evaluation framework, leaderboard, dashboard, research report, paper
+</details>
 
-- Complete introductory ML and NLP study.
-- Develop Urdu-RomanX.
-- Start UrduQA-Reason if the first project is under control.
-- Learn academic writing and literature review.
-- Seek a suitable research mentor.
-- Apply for internships and summer research opportunities whose official eligibility you meet.
+<details>
+<summary><b>4. UrduIE-KG</b></summary>
 
-Deliverables
+- **Full name:** Urdu Information Extraction, Entity Linking, Relation Extraction and Knowledge-Graph Construction
+- **Pipeline:** Urdu documents → NER → entity linking → relation extraction → event extraction → knowledge graph
+- **Extracts:** people, organizations, locations, dates, laws, policies, events, relationships
+- **Tools:** Transformers, PyTorch, [Wikidata](https://www.wikidata.org/), graph databases
+- **Outputs:** dataset, NER model, entity-linking system, relation extractor, knowledge graph, API, web interface
+</details>
 
-- A reproducible experiment.
-- A technical report.
-- A clearly documented dataset or evaluation protocol.
-- A credible application portfolio.
+<details>
+<summary><b>5. PAKGOV-RAG-X</b></summary>
 
-A publication is possible only if the work makes a meaningful contribution; it is not guaranteed by the timeline.
-
-</details><details>
-<summary><strong>Year 3 — 2028–2029: Research Depth</strong></summary>Main priorities
-
-- Expand UrduCodeSwitch-Bench.
-- Develop UrduIE-KG where data and supervision permit.
-- Extend PAKGOV-RAG-X.
-- Pursue research internships or faculty-supervised projects.
-- Prepare manuscript submissions when results justify them.
-- Develop relationships with supervisors who directly observe the work.
-
-Deliverables
-
-- Rigorous benchmark results.
-- A clear research contribution.
-- Reproducible code and documentation.
-- Stronger academic references based on actual supervision.
-
-</details><details>
-<summary><strong>Year 4 — 2029–2030: Flagship Research and Applications</strong></summary>Main priorities
-
-- Complete the strongest research project.
-- Finish the final-year design project.
-- Submit mature research to suitable venues.
-- Build a professional research CV.
-- Request recommendations from faculty who know the work.
-- Apply to appropriate funded MS or direct PhD programmes.
-
-Deliverables
-
-- A completed final-year project.
-- A polished research portfolio.
-- A record of actual research outcomes.
-- A realistic graduate application strategy.
-
-</details>---
-
-11. Research Internship Strategy
-
-The objective is to gain meaningful supervised research experience, not simply to collect internship titles.
-
-Priority 1 — Undergraduate research in Pakistan
-
-Investigate relevant research groups at:
-
-- "NUST School of Electrical Engineering and Computer Science" (https://seecs.nust.edu.pk/)
-- "LUMS" (https://lums.edu.pk/)
-- "Iqra University Islamabad" (https://iuisl.iqra.edu.pk/)
-
-Look for faculty working on NLP, machine learning, information retrieval, speech, or multilingual systems.
-
-External-student eligibility, availability, funding, and application dates must be confirmed from the official programme or faculty source.
-
-Priority 2 — International research programmes
-
-Monitor the official programme pages for:
-
-- "MBZUAI Global Research Internship Program" (https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program)
-- "KAUST Visiting Student Research Program" (https://admissions.kaust.edu.sa/study/internships)
-- "ETH Zurich Student Summer Research Fellowship" (https://inf.ethz.ch/studies/summer-research-fellowship.html)
-- "EPFL Summer Research Programmes" (https://www.epfl.ch/education/international/en/)
-
-These are opportunities to investigate, not confirmed future placements. Eligibility, funding, programme availability, and deadlines can change between cycles.
-
-Internship quality standard
-
-For every placement, aim to produce:
-
-- A defined research or engineering contribution.
-- A record of work and results.
-- Reproducible code or documentation where permitted.
-- Feedback from a direct supervisor.
-- A recommendation request only when the supervisor has sufficient evidence to evaluate the work.
+- **Full name:** Evidence-Grounded Bilingual Retrieval-Augmented Generation for Pakistani Government, Legal and Public Information
+- **Languages:** English, Urdu, Roman Urdu
+- **Compares:** BM25 vs Dense vs Hybrid vs Hybrid + Reranker vs RAG vs RAG + Verification
+- **Outputs:** open-source code, benchmark, dataset (only where legally allowed), models, API, web app, evaluation dashboard, paper
+</details>
 
 ---
 
-12. Graduate Research Goals
+# 📚 THE 3 RESEARCH PAPERS
 
-My long-term objective is to pursue advanced study in AI, machine learning, or computer science at a research-intensive university.
+| # | Title | From | Possible venues |
+|:-:|:--|:--|:--|
+| 1 | Urdu-RomanX: Robust Representation Learning Across Urdu, Roman Urdu and Urdu-English Text | Project 1 | [ACL](https://aclrollingreview.org/) · [EMNLP](https://www.aclweb.org/) · [NAACL](https://naacl.org/) · COLING |
+| 2 | UrduCodeSwitch-Bench: Reliability, Factuality and Safety Evaluation Across Urdu, Roman Urdu and Code-Switched Text | Project 3 | ACL · EMNLP · NAACL · [NeurIPS Evaluations & Datasets](https://neurips.cc/) |
+| 3 | PAKGOV-RAG-X: Evidence-Grounded Bilingual RAG for Pakistani Government and Public Information | Project 5 | ACL · EMNLP · NAACL · [SIGIR](https://sigir.org/) · NeurIPS E&D |
 
-Institutions I intend to investigate include:
-
-- "MBZUAI" (https://mbzuai.ac.ae/)
-- "KAUST" (https://www.kaust.edu.sa/)
-- "Carnegie Mellon University" (https://www.cmu.edu/)
-- "Stanford University" (https://www.stanford.edu/)
-- "ETH Zurich" (https://ethz.ch/)
-- "EPFL" (https://www.epfl.ch/)
-- "National University of Singapore" (https://nus.edu.sg/)
-- "KAIST" (https://www.kaist.ac.kr/)
-
-These are target institutions, not predictions of admission.
-
-My application strategy will depend on the official programme requirements at the time of application, including academic results, mathematical preparation, English proficiency, research experience, recommendation letters, and funding eligibility.
-
-MS or direct PhD?
-
-I will evaluate both routes rather than assume one is always superior.
-
-A research-focused MS may be appropriate if I need deeper mathematical preparation, more research experience, or a stronger academic record before applying for a PhD.
-
-Direct PhD applications may be appropriate if my academic preparation, research contributions, recommendations, and the target programme's eligibility requirements support that route.
-
-I will compare the actual funding packages, programme structures, research fit, and eligibility rules before deciding.
+**Status:** all three are **Planned**. The real contribution decides the venue.
 
 ---
 
-13. Academic Standards and Research Principles
+# 💻 THE 3 PRODUCTS, APPS AND APIs
 
-My target is strong academic performance, with a personal CGPA goal of 3.85/4.00 or higher where the university's grading scale permits that target.
+```mermaid
+flowchart TD
+    R[Research and Benchmarks] --> P1[AI Reliability Lab]
+    R --> P2[GovAI Studio]
+    R --> P3[UrduAI Enterprise]
+    P1 --> U[Real users and feedback]
+    P2 --> U
+    P3 --> U
+    U --> C[More research credibility]
+```
 
-This is a goal, not a claim about my current CGPA or a guarantee of future grades.
+| Product | What it does | Who may use it | Year |
+|:--|:--|:--|:-:|
+| **AI Reliability Lab** | Tests LLM, RAG and AI-agent systems for hallucination, grounding, retrieval, citations, safety and multilingual quality, then writes a report (score → failures → evidence → recommendations) | AI startups, software teams, researchers | 3 to 4 |
+| **GovAI Studio** | Private document assistant: search, RAG, citations, summaries, comparison, source tracking, audit trail | Law firms, universities, NGOs, compliance teams | 4 |
+| **UrduAI Enterprise** | Urdu and Roman Urdu infrastructure with APIs | Education, telecom, media, e-commerce, fintech, support teams | 4 |
 
-I will prioritize:
+**UrduAI Enterprise APIs (build only what users need):** `/search` · `/qa` · `/summarize` · `/extract` · `/classify` · `/rag` · `/evaluate`
 
-- Understanding mathematics rather than memorizing formulas.
-- Strong programming fundamentals.
-- Reliable data and evaluation practices.
-- Reading relevant research before claiming novelty.
-- Comparing against appropriate baselines.
-- Reporting negative findings honestly.
-- Respecting source permissions and data privacy.
-- Documenting limitations and reproducibility.
-- Publishing only when the contribution meets the venue's standards.
+### 🌐 Apps and Systems I Will Build
 
-No project, certificate, internship, or paper guarantees admission to an elite university.
+| App | Purpose | Year |
+|:--|:--|:-:|
+| Urdu-RomanX Web Demo | Try Urdu, Roman Urdu and mixed text with models | 2 |
+| UrduCodeSwitch-Bench Leaderboard | Model, task, language, score and failure rate | 3 |
+| AI Reliability Lab Dashboard | Upload a system, get a reliability report | 3 to 4 |
+| UrduIE-KG Explorer | Browse the Urdu knowledge graph | 3 |
+| PAKGOV-RAG-X Web App | Ask government questions with citations | 4 |
+| Evaluation Dashboard | Compare model versions and spot regressions | 4 |
 
----
+### 💡 Later Product Ideas (only after the core ones work)
 
-14. Open-Source Project Structure
+| Idea | What it does |
+|:--|:--|
+| **RegulaPak** | Detects changes in official regulations and shows the old text, new text, date and source |
+| **PakVoice** | Urdu and English voice assistant that answers with evidence |
+| **PAKAI Verify** | A wider version of AI Reliability Lab for global developers |
 
-As the work matures, the repository ecosystem may include:
-
-salikhussain71-code/
-|
-|-- PAKGOV-RAG-project/
-|-- Urdu-RomanX/
-|-- UrduQA-Reason/
-|-- UrduCodeSwitch-Bench/
-|-- UrduIE-KG/
-|-- PAKGOV-RAG-X/
-|-- PAKAI-Verify/
-|-- GovAI-Studio/
-|-- UrduAI-Enterprise/
-
-These names represent the planned ecosystem. They should not be treated as evidence that every repository is already implemented or publicly available.
-
-Each repository should have:
-
-- A clear problem statement.
-- Installation instructions.
-- A defined scope.
-- A reproducible example.
-- Appropriate tests.
-- Source and dataset documentation.
-- Honest evaluation results.
-- Known limitations.
-- Licensing and citation information.
-
-I will create repositories when there is real work to share, rather than creating empty repositories to increase their number.
+*I will not invent prices, user numbers or revenue. Every dataset must respect licenses, privacy and source permissions.*
 
 ---
 
-15. Professional Development and Public Impact
+# 🧪 THE 3 INTERNSHIPS (Summary)
 
-I aim to make my work useful to researchers, students, and developers working with Urdu and related languages.
+| # | When | Where | Aim |
+|:-:|:--|:--|:--|
+| 1 | Summer 2028 | [LUMS](https://lums.edu.pk/), on-site, Urdu NLP | First research supervision and first letter |
+| 2 | Summer 2029 | [KAUST](https://admissions.kaust.edu.sa/study/internships) · [MBZUAI](https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program) · [ETH](https://ethz.ch/) · [EPFL](https://www.epfl.ch/) | Strongest letter for MS |
+| 3 | Winter break, Year 3 | Remote research / [Cohere Labs](https://cohere.com/research) | Co-authored paper |
 
-Potential contributions include:
+### ✉️ Recommendation Letters (3 needed)
 
-- Improving access to public information through evidence-grounded search.
-- Publishing reproducible evaluation methods.
-- Documenting model failures across language forms.
-- Contributing to relevant open-source NLP tools.
-- Sharing research notes and technical explanations.
-- Building accessible demonstrations that clearly explain their limitations.
-
-I will measure impact through verifiable evidence such as completed releases, documented experiments, external contributions, research feedback, and actual usage where available.
-
-GitHub stars, downloads, users, revenue, citations, and publication counts will be reported only when they can be verified.
+1. The LUMS supervisor (Internship 1)
+2. The professor from the abroad program (Internship 2), the strongest one
+3. An Iqra professor who has seen my grades and effort in Programming, Algorithms and AI
 
 ---
 
-16. Current Learning Priorities
+# 🧮 SKILLS AND TOOLS
 
-My immediate priorities are:
 
-1. Programming Fundamentals and C++.
-2. Calculus and precalculus preparation.
-3. Linear algebra and probability as the curriculum progresses.
-4. Python and scientific computing.
-5. Git, GitHub, and Linux.
-6. Data structures and algorithms.
-7. Machine learning foundations.
-8. Reproducible research practices.
-9. Improving the existing PAKGOV-RAG project.
-10. Building the first controlled experiments for Urdu-RomanX.
 
-The order may change to fit university assessments, prerequisites, and research opportunities.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+
+
+| Area | Topics |
+|:--|:--|
+| Programming | C++, Python, Object-Oriented Programming, Data Structures, Algorithms |
+| Math for AI | Calculus, Linear Algebra, Probability, Statistics, Optimization |
+| AI | Machine Learning, Deep Learning, NLP, Transformers, LLMs, RAG, Information Retrieval |
+| Engineering | Git, Linux, SQL, testing, APIs, cloud deployment |
+
+*Skills are marked "learning" because I am at the start of my degree.*
+
+### 🔗 Learning Links
+
+[Harvard CS50P](https://cs50.harvard.edu/python/) · [Hugging Face Courses](https://huggingface.co/learn) · [Kaggle Learn](https://www.kaggle.com/learn) · [ACL Anthology](https://aclanthology.org/) · [arXiv cs.CL](https://arxiv.org/list/cs.CL/recent) · [Papers with Code](https://paperswithcode.com/)
 
 ---
 
-17. Contact and Collaboration
+# 📈 GITHUB ACTIVITY
 
-I welcome thoughtful discussions about Urdu NLP, multilingual AI, retrieval-augmented generation, evaluation methodology, and open-source research.
+<div align="center">
 
-I am particularly interested in collaborations where the research question is clear, the work can be evaluated rigorously, and contributions can be documented honestly.
+<img src="https://github-readme-stats.vercel.app/api?username=salikhussain71-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salikhussain71-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-GitHub: "salikhussain71-code" (https://github.com/salikhussain71-code)
-LinkedIn: "Salik Hussain" (https://www.linkedin.com/in/salik-hussain-7822a1388)
-Kaggle: "salikhussain" (https://www.kaggle.com/salikhussain)
-X: "@salikhussain71" (https://x.com/salikhussain71)
-Portfolio: "salik.dev" (https://salik.dev)
+<img src="https://streak-stats.demolab.com?user=salikhussain71-code&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salikhussain71-code&theme=tokyo-night&hide_border=true" alt="Activity graph" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=salikhussain71-code&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+
+</div>
 
 ---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:164e63,100:0891b2&height=120&section=footer" width="100%" alt="Profile footer"/>Learn the foundations. Test the evidence. Build useful systems. Publish honest research.
+## 📜 My Working Rules
 
-Last updated: October 2026
+1. **Finish before starting.** One project at a time.
+2. **Be honest.** No fake numbers and no "first ever" claims without proof.
+3. **Respect rules.** Every dataset follows licenses, privacy and permissions.
+4. **Test everything.** Results must be repeatable.
+5. **Grades first.** A strong CGPA supports everything else.
+
+---
+
+## 🤝 Let's Connect
+
+I welcome advice from researchers, students and engineers, especially in Urdu NLP, multilingual AI and trustworthy RAG. If you supervise undergraduate researchers, I would be grateful to hear from you.
+
+📧 **salikhussain71@gmail.com**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=130&section=footer" width="100%"/>
 
 </div>
