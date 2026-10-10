@@ -8,11 +8,7 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<img alt="Snake" src="https://raw.githubusercontent.com/salikhussain71-code/salikhussain71-code/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <br/>
 
