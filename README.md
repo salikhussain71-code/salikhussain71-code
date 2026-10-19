@@ -943,69 +943,37 @@ gantt
 6. **Targets are not facts.** Goals like stars, users and citations stay goals until I earn them.
 
 ---
+---
+
+## 🤝 Connect & Collaborate
+
+I actively welcome advice, technical discussions, and research partnerships from **researchers, students, and engineers**—particularly those working in **Urdu NLP, Multilingual AI, and Trustworthy RAG**. If you supervise undergraduate researchers or are exploring joint academic/open-source initiatives, let's connect!
+
+### 📬 Direct Channels
+
+| Platform | Link / Handle | Action |
+| :--- | :--- | :--- |
+| 📧 **Email** | [salikhussain71@gmail.com](mailto:salikhussain71@gmail.com) | Send a direct inquiry |
+| 💼 **LinkedIn** | [Salik Hussain](https://www.linkedin.com/in/salik-hussain-7822a1388/) | Professional network & updates |
+| 🌐 **Portfolio** | [salik.dev](https://salik.dev) | Explore my projects & research |
+| 💻 **GitHub** | [@salikhussain71-code](https://github.com/salikhussain71-code) | Follow for code & repositories |
+| 🔬 **ORCID** | [Research Profile](https://orcid.org/) | Academic publications & credentials |
 
 ---
 
-🤝 Let's Connect, Collaborate & Build AI Together
+### ⭐ Support & Contribute
 
-I welcome meaningful connections with AI researchers, research engineers, university students, open-source contributors, and industry professionals.
+If you find this project impactful, consider supporting its development:
 
-My interests include Urdu NLP, multilingual AI, trustworthy RAG, machine learning, and reliable AI systems.
+* **⭐ Star** — Star this repository to boost visibility and help other researchers discover it.
+* **🍴 Fork** — Fork the repository to experiment, build extensions, or adapt it for your own research.
+* **🐛 Contribute** — Report reproducible bugs, suggest methodological improvements, or open a Pull Request.
+* **📢 Share** — Share this work with peers working in NLP and multilingual systems.
+* **🤝 Research Partnerships** — Serious discussions regarding methodology, evaluation, benchmarking, and sponsorships are always welcome.
 
-🔬 Research Collaboration — Discuss research questions, experimental design, evaluation methods, and reproducibility.
+---
 
-🧑‍🏫 Research Mentorship — If you supervise undergraduate researchers or mentor students in AI/ML, I would be grateful for your advice and feedback.
-
-💻 Open-Source Contributions — Help improve the code, documentation, tests, experiments, or overall project quality.
-
-🚀 Research & Internship Opportunities — Connect with me regarding relevant research projects, research internships, and technical opportunities.
-
-🌍 Community & Industry Connections — I welcome constructive discussions with researchers, engineers, founders, and open-source maintainers.
-
-⭐ Support This Project
-
-If you find this repository useful, you can help it grow:
-
-- ⭐ Star: Bookmark the project and help others discover it.
-- 🍴 Fork: Experiment with the code or develop your own improvements.
-- 🐛 Report: Open an issue with a reproducible bug or constructive suggestion.
-- 🔀 Contribute: Submit a pull request with a clear explanation of your changes.
-- 📢 Share: Recommend the project to people working on related problems.
-- 💙 Sponsor: Support ongoing development if an official sponsorship option is available.
-
-Please star, fork, share, or contribute whenever you genuinely find the project useful.
-
-📬 Connect With Me
-
-📧 Email: "salikhussain71@gmail.com" (mailto:salikhussain71@gmail.com)
-
-💼 LinkedIn: "Connect with me" (https://linkedin.com/in/salik-hussain-7822a1388)
-
-💻 GitHub: "@salikhussain71-code" (https://github.com/salikhussain71-code)
-
-🌐 Portfolio: "Visit my website" (https://salikhussain71-code.github.io)
-
-🔬 ORCID: "0009-0002-2163-1728" (https://orcid.org/0009-0002-2163-1728)
-
-🤝 Have an Idea or Want to Collaborate?
-
-Send me an email with:
-
-1. Your introduction: Your role, research interests, or relevant experience.
-2. Your idea: The project, research question, or opportunity you have in mind.
-3. The proposed collaboration: What you would like to explore or build together.
-4. Relevant links: Your GitHub, publications, website, or professional profile.
-
-I value rigorous experimentation, honest reporting, reproducible results, constructive feedback, and meaningful collaboration.
-
-Let's work together to make AI more reliable, accessible, and useful. 🌍🤖
-
-<div align="center">  <a href="https://github.com/salikhussain71-code">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub"/>
-  </a>
-  <a href="mailto:salikhussain71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Research%20%26%20Collaboration-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
-  </a>
-  <a href="https://linkedin.com/in/salik-hussain-7822a1388">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>  <br/>  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=130&section=footer" width="100%" alt="Decorative footer banner"/></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+  <p><em>Let's build useful, reproducible, and impactful AI systems through open collaboration. 💙</em></p>
+</div>
